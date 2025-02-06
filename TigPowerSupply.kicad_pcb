@@ -88,13 +88,13 @@
 	(footprint "Connector_JST:JST_NV_B03P-NV_1x03_P5.00mm_Vertical"
 		(layer "F.Cu")
 		(uuid "08b0e67b-4a3c-4030-8a1b-a36fb5d4a31f")
-		(at 152.4 63.34 90)
+		(at 149.83 62 90)
 		(descr "JST NV series connector, B03P-NV (http://www.jst-mfg.com/product/pdf/eng/eNV.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST NV side entry")
 		(property "Reference" "J2"
 			(at 5 -4.9 90)
 			(layer "F.SilkS")
-			(uuid "5cce243c-a273-4a29-b82e-cdab39d2fa51")
+			(uuid "f650a6de-a25c-4c47-98ff-3067636878f6")
 			(effects
 				(font
 					(size 1 1)
@@ -105,7 +105,7 @@
 		(property "Value" "Conn_01x03"
 			(at 5 6 90)
 			(layer "F.Fab")
-			(uuid "8f2824fd-8dba-4832-8ffe-b38cdbc48b83")
+			(uuid "26e391e4-dbcf-421c-974b-8f7ae1037c77")
 			(effects
 				(font
 					(size 1 1)
@@ -118,7 +118,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43e8aa6a-3447-4589-b8cf-c491b9b644f8")
+			(uuid "4d8e556a-7e99-463c-8d2b-9d6cc17b7c07")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -131,7 +131,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "554c5607-b8ed-4065-8fa0-9a575e962f87")
+			(uuid "c1bbdff0-703d-40b4-ae08-53e0cbd79a69")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -144,7 +144,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "322f24ad-4274-4184-b99f-c1e73de1a2d4")
+			(uuid "f36d8391-9d6f-421c-94b8-1e46c2badc3f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,7 +165,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "23660403-612c-48e3-90e4-ce55ebc62d5b")
+			(uuid "941d91bf-939e-436a-9082-4ea48bea206d")
 		)
 		(fp_line
 			(start -2.61 -3.81)
@@ -175,7 +175,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d0ecb133-a7b5-4bf1-89d1-30ad9886a067")
+			(uuid "a8cf975e-1dfd-4ebf-93f6-ad0e1754590a")
 		)
 		(fp_line
 			(start -3.41 -0.3)
@@ -185,7 +185,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "48d52579-4e10-4ad0-9ff5-68235a6ddc3d")
+			(uuid "6c1f797c-232d-45bb-9d33-11b07c384763")
 		)
 		(fp_line
 			(start -2.81 0)
@@ -195,7 +195,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "502a7bd0-f0cb-4490-88e1-abf2f6e932fb")
+			(uuid "52510794-8db5-4b7e-aea0-55c08e62af1c")
 		)
 		(fp_line
 			(start -3.41 0.3)
@@ -205,7 +205,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7439e7cc-99d9-4377-9160-62b705e4f429")
+			(uuid "30b02160-2fea-4a93-af74-da101a5fede6")
 		)
 		(fp_line
 			(start 12.61 4.91)
@@ -215,7 +215,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e2fe7dae-7cff-4c94-b6f6-d03c5dbe3b6c")
+			(uuid "5a78b47a-8a6c-4ad8-97c5-5359357489ce")
 		)
 		(fp_line
 			(start -2.61 4.91)
@@ -225,7 +225,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "70d1cef7-8fb9-414f-8886-15dac2580582")
+			(uuid "ff1031ab-da44-48ff-ad46-0b0300400c48")
 		)
 		(fp_line
 			(start 13 -4.2)
@@ -235,7 +235,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1ee37eae-c6f7-426d-b40a-b3b679e697e0")
+			(uuid "151efbb1-dd10-41b7-8f83-db83f9fe3e39")
 		)
 		(fp_line
 			(start -3 -4.2)
@@ -245,7 +245,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b255cc68-a1f9-494e-98f7-d55e7675b677")
+			(uuid "a5515e14-1e5b-49b9-b42b-d50cdbf5194d")
 		)
 		(fp_line
 			(start 13 5.3)
@@ -255,7 +255,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4511cea6-46a6-4d5f-a4b7-503a7ea4732a")
+			(uuid "08040805-9b27-4997-a00d-669e67680856")
 		)
 		(fp_line
 			(start -3 5.3)
@@ -265,7 +265,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9e7a16a1-db09-4dc4-b392-adbc2b80b1e6")
+			(uuid "dad84216-b62b-4ad9-bb29-616a55f15a3b")
 		)
 		(fp_line
 			(start 12.5 -3.7)
@@ -275,7 +275,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2b388a88-7352-483f-a408-ef3c1cb1e409")
+			(uuid "67f966f1-6de6-4af9-b2ff-f2925b9dfe4e")
 		)
 		(fp_line
 			(start -2.5 -3.7)
@@ -285,7 +285,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1ad0fb42-a83a-4a57-b858-9f2f6dc60b0d")
+			(uuid "b53fe4c4-2296-4cf4-a535-7d43bb881575")
 		)
 		(fp_line
 			(start -2.5 -2)
@@ -295,7 +295,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "049cc9fb-b38c-440e-ba39-391cfbc262a0")
+			(uuid "0fb1132d-6105-4e89-97b5-24dd9c0fb214")
 		)
 		(fp_line
 			(start -2.5 -1)
@@ -305,7 +305,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c1642147-568b-4017-bfac-0dbc7fd0cb96")
+			(uuid "0be1c126-72e9-49a4-91a6-3b6257a553a8")
 		)
 		(fp_line
 			(start -2.5 1)
@@ -315,7 +315,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "23798274-c29a-4592-ba40-ba27095d88d7")
+			(uuid "956eff3c-cabf-4654-8814-c16005fecb33")
 		)
 		(fp_line
 			(start 12.5 4.8)
@@ -325,7 +325,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ca4abc04-f588-4f76-85ad-654a3b21b450")
+			(uuid "a4d95a4d-2f89-4821-a007-05793ea5f74c")
 		)
 		(fp_line
 			(start -2.5 4.8)
@@ -335,12 +335,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e4907a14-21a8-4546-9ab6-6f9eceb48c40")
+			(uuid "414a188a-b5e1-4e41-921b-f8d68429c36b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 5 4.1 90)
 			(layer "F.Fab")
-			(uuid "2eaed393-43b7-4fb9-8683-086f10e73398")
+			(uuid "b9f81760-c111-42b5-8163-b77149f0b24f")
 			(effects
 				(font
 					(size 1 1)
@@ -358,7 +358,7 @@
 			(net 1 "+5VA")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "7dd0b100-77b0-48a9-a1af-9ab92216a9d4")
+			(uuid "f7c5ea31-d01b-428b-b70d-f219ade4b6c8")
 		)
 		(pad "2" thru_hole circle
 			(at 5 0 90)
@@ -369,7 +369,7 @@
 			(net 3 "+3.3V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "0c450c28-1bf5-4b35-b420-5ee696f38e22")
+			(uuid "ec7092a7-0c02-4729-a6df-03608e335968")
 		)
 		(pad "3" thru_hole circle
 			(at 10 0 90)
@@ -380,7 +380,7 @@
 			(net 2 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "cccdd2ee-5514-4632-9f53-4b3cb5343975")
+			(uuid "60bc3f09-a062-4316-ba57-119341342216")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_JST.3dshapes/JST_NV_B03P-NV_1x03_P5.00mm_Vertical.wrl"
 			(offset
@@ -397,13 +397,13 @@
 	(footprint "Package_TO_SOT_THT:TO-220-3_Vertical"
 		(layer "F.Cu")
 		(uuid "46775475-5e9e-4ad8-9891-87b9630e19db")
-		(at 134.62 50.8)
+		(at 132.05 49.46)
 		(descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
 		(tags "TO-220-3 Vertical RM 2.54mm")
 		(property "Reference" "U1"
 			(at 2.54 -4.27 0)
 			(layer "F.SilkS")
-			(uuid "7a8462a6-8bde-4ed6-906d-6c49f9039032")
+			(uuid "a41dc917-65d0-4d14-8033-9b5fd13d0465")
 			(effects
 				(font
 					(size 1 1)
@@ -414,7 +414,7 @@
 		(property "Value" "MCP1826S"
 			(at 2.54 2.5 0)
 			(layer "F.Fab")
-			(uuid "d4d355a4-77ba-4ed2-851a-f4959ddd8d65")
+			(uuid "42408e5c-17c4-459c-a87c-e4fa3022852e")
 			(effects
 				(font
 					(size 1 1)
@@ -426,7 +426,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d371742b-6859-4cd8-9ec8-bdd293d8f820")
+			(uuid "cbd1f8fd-4527-4783-a204-7cf6200f6081")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -438,7 +438,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ca552869-3cad-40ee-8111-e6bf80a22c54")
+			(uuid "004be450-fde2-43c8-97f6-c1778a7f3dae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -450,7 +450,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48e677e9-03d4-4bd0-bbd8-19c3d1b48601")
+			(uuid "e808fda2-99ec-44d1-843a-24bad521edf3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -471,7 +471,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "162a611f-dc9b-4093-8aaa-495b06c903dd")
+			(uuid "6a9e6d96-2a14-4594-b3aa-9f38f3c5cb3c")
 		)
 		(fp_line
 			(start -2.58 -3.27)
@@ -481,7 +481,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cc5a4248-e7f8-475d-84ea-edec868fb69c")
+			(uuid "415a0a6b-3ced-4784-ab0f-77df23e628ce")
 		)
 		(fp_line
 			(start -2.58 -1.76)
@@ -491,7 +491,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7f466e2d-7ac7-4a5c-ae93-af765279eae7")
+			(uuid "accd8303-1098-4416-9b4f-a60da1dcced2")
 		)
 		(fp_line
 			(start -2.58 1.371)
@@ -501,7 +501,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "450b621d-448d-475f-b660-e955cc5db93a")
+			(uuid "13379b59-dc0b-4119-b76d-47b76b6654c9")
 		)
 		(fp_line
 			(start 0.69 -3.27)
@@ -511,7 +511,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "96d2f163-03ec-49fc-b70e-9fc2662f15c0")
+			(uuid "31af6677-bf98-4551-89cf-9b1da3e55fe3")
 		)
 		(fp_line
 			(start 4.391 -3.27)
@@ -521,7 +521,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f6aac29-cad6-4552-afbc-8a56a0bc7976")
+			(uuid "b8164a62-8b63-411a-b6de-43b4a59380d6")
 		)
 		(fp_line
 			(start 7.66 -3.27)
@@ -531,7 +531,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a2be5c4b-be37-4e14-b62a-7899ebfc15d5")
+			(uuid "b8719b5f-79a2-4c5a-bea3-4414b04e2318")
 		)
 		(fp_line
 			(start -2.71 -3.4)
@@ -541,7 +541,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a0c97acd-79a3-49fa-91e7-71c9d1810dda")
+			(uuid "d666dd01-5535-46f1-9ada-2f5d4d9de04f")
 		)
 		(fp_line
 			(start -2.71 1.51)
@@ -551,7 +551,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8c43593d-a971-4c0a-a0c2-2184614d9608")
+			(uuid "7437f425-049a-4b48-b6c1-787325bfc541")
 		)
 		(fp_line
 			(start 7.79 -3.4)
@@ -561,7 +561,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cd148445-54b5-4364-a897-fe94823f74e9")
+			(uuid "7a3feaf4-1281-4663-9cd2-33634ba50bb8")
 		)
 		(fp_line
 			(start 7.79 1.51)
@@ -571,7 +571,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "28783738-043f-4890-ac61-a3ff3030e0c5")
+			(uuid "aa172f2f-135e-496e-8e5b-7fa4f7c3a65e")
 		)
 		(fp_line
 			(start -2.46 -3.15)
@@ -581,7 +581,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4fba70d8-ed63-45a7-b807-352225821209")
+			(uuid "7b22c1e1-b033-401d-affb-6774c41b7b5d")
 		)
 		(fp_line
 			(start -2.46 -1.88)
@@ -591,7 +591,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "931b8ede-d058-4f72-a840-e85bd93335aa")
+			(uuid "3cf27b91-ed59-4d6a-b29b-0e1746a1f297")
 		)
 		(fp_line
 			(start -2.46 1.25)
@@ -601,7 +601,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "71eaf9e4-3aca-4ef9-9337-dd36b37a0620")
+			(uuid "c71451c0-f5fe-4032-b03a-f847084eab62")
 		)
 		(fp_line
 			(start 0.69 -3.15)
@@ -611,7 +611,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d3db126c-a535-4d79-a302-3ce967fa0160")
+			(uuid "8f646d2e-225c-4da0-851b-289e48d0a123")
 		)
 		(fp_line
 			(start 4.39 -3.15)
@@ -621,7 +621,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "96c83469-c7be-4c3b-abe9-123d90ec8a1d")
+			(uuid "95cd9b5d-93e1-442e-b0f9-f86e2e1f92d6")
 		)
 		(fp_line
 			(start 7.54 -3.15)
@@ -631,7 +631,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "86deb51b-6f1e-401f-b876-a8a2981a4e6c")
+			(uuid "b2047308-a599-4f25-879e-d83505777482")
 		)
 		(fp_line
 			(start 7.54 1.25)
@@ -641,12 +641,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e1cd2bdf-3f44-4e86-8a84-b2bf1758b326")
+			(uuid "bfa0a486-e0f7-47b3-a940-aa19ad1b95ef")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.54 -4.27 0)
 			(layer "F.Fab")
-			(uuid "55b9752d-d353-453f-aa3c-6b9cc220ba26")
+			(uuid "015a46bb-3a8c-4829-948b-fb4e9c934bd3")
 			(effects
 				(font
 					(size 1 1)
@@ -663,7 +663,7 @@
 			(net 1 "+5VA")
 			(pinfunction "VI")
 			(pintype "power_in")
-			(uuid "fa058f59-9315-435d-b194-020161b472d6")
+			(uuid "3395a2d2-42ea-4171-b69a-3fd71796692e")
 		)
 		(pad "2" thru_hole oval
 			(at 2.54 0)
@@ -674,7 +674,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "4467b9df-3855-4fba-b877-716d91d936c1")
+			(uuid "c6792975-4f52-4c80-993c-123b3c2ec72b")
 		)
 		(pad "3" thru_hole oval
 			(at 5.08 0)
@@ -685,7 +685,7 @@
 			(net 3 "+3.3V")
 			(pinfunction "VO")
 			(pintype "power_out")
-			(uuid "c4e14f50-611e-4ac4-9140-c78fc10b1ed2")
+			(uuid "c8c855b0-3307-4b34-8aa2-e85bc49fbb81")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.wrl"
 			(offset
@@ -702,13 +702,13 @@
 	(footprint "Converter_ACDC:Converter_ACDC_Hi-Link_HLK-PMxx"
 		(layer "F.Cu")
 		(uuid "54d2090a-402f-4b00-91bf-70a5684086ed")
-		(at 94.210199 55.895)
+		(at 91.640199 54.555)
 		(descr "ACDC-Converter, 3W, Hi-Link, HLK-PMxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%973W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%913W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V2.8.pdf)")
 		(tags "ACDC-Converter 3W THT Hi-Link board mount module")
 		(property "Reference" "PS1"
 			(at -1.66 -9.79 0)
 			(layer "F.SilkS")
-			(uuid "5fe9f7a7-71c0-4bc2-8c25-4532b9f23a90")
+			(uuid "0944658d-4216-429d-8e8b-be1036bc560a")
 			(effects
 				(font
 					(size 1 1)
@@ -719,7 +719,7 @@
 		(property "Value" "HLK-PM01"
 			(at 14.54 15 0)
 			(layer "F.Fab")
-			(uuid "3f76b048-983c-41ac-b9f6-5a612e376aa1")
+			(uuid "fd37f464-8d92-4ddb-8180-ef225f6c138e")
 			(effects
 				(font
 					(size 1 1)
@@ -732,7 +732,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e1a6d269-013e-4d6c-afd8-4f6a866ff047")
+			(uuid "93cfda7f-6baa-4220-b0a1-2b35defba576")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -745,7 +745,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "050d1aa0-927c-4673-81b9-a4b8dcd68a4a")
+			(uuid "e6a7b0b5-96d5-468e-bfea-81835fd897be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -758,7 +758,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6467b59-0bf8-45e7-98cf-216324cd5f57")
+			(uuid "67a0306c-0a11-4c78-b831-4402ed5b3e7f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -779,7 +779,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9d725978-e5c9-4dd8-8a96-2cac7f5dbc78")
+			(uuid "2e4b1980-1dd1-4106-8724-42f2a1eb6ec5")
 		)
 		(fp_line
 			(start -4.16 -6.05)
@@ -789,7 +789,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "166cb7cb-7dfc-4d81-a9f9-0468f2ddc8b5")
+			(uuid "02a61472-2510-4d06-a2cd-d1d9ecc58f8c")
 		)
 		(fp_line
 			(start -3.92 -8.81)
@@ -799,7 +799,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b8389a0d-e21f-4f58-b11c-85b3dedd2f83")
+			(uuid "3ca6e7c4-b8fd-4edb-82be-1324979d5a6e")
 		)
 		(fp_line
 			(start -3.92 -8.81)
@@ -809,7 +809,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ec601a87-e6b0-4d09-a1a6-5d5bff36ee05")
+			(uuid "5a9c721d-de9f-496b-a28b-0be693defc41")
 		)
 		(fp_line
 			(start -3.92 13.81)
@@ -819,7 +819,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9df8a153-eaf5-4c56-b981-1d198f9ab3d5")
+			(uuid "f955fee6-5d3e-4ebe-a8ec-bddb06e1d00e")
 		)
 		(fp_line
 			(start 33 -8.81)
@@ -829,7 +829,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8ade03c0-efef-4b22-a5df-ee7547b13fdc")
+			(uuid "c0d1bdd1-16f6-46fb-ba7f-ff0ab03f9eb8")
 		)
 		(fp_line
 			(start -4.11 -9)
@@ -839,7 +839,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fda9daf8-ca26-4b03-81fa-aaf856fb9f51")
+			(uuid "db47a991-5ffc-4297-aa58-648db8682fbb")
 		)
 		(fp_line
 			(start -4.11 -9)
@@ -849,7 +849,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "436435d9-8e58-49cf-94a2-590a824d208a")
+			(uuid "73564a89-9fb8-416f-a1f1-242308a127d3")
 		)
 		(fp_line
 			(start -4.11 14)
@@ -859,7 +859,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "17406e62-98ab-4b5d-916a-0b1dd1eb0fb4")
+			(uuid "ef9a0746-fc2c-43a5-ae93-f8dfd2592018")
 		)
 		(fp_line
 			(start 33.19 -9)
@@ -869,7 +869,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6f1a5ac5-f67b-4b74-8914-ada93764950b")
+			(uuid "73e6a038-48c6-4c0f-bb83-226f6932f0ba")
 		)
 		(fp_line
 			(start -2.86 -6.75)
@@ -879,7 +879,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "32a64df0-099f-4da4-b663-34dba750021c")
+			(uuid "34a08982-fa9f-49ea-a377-fafc8c174354")
 		)
 		(fp_line
 			(start -2.86 12.75)
@@ -889,7 +889,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3bfb34fa-7e4b-4cd7-b9ec-99bd03831dca")
+			(uuid "3fede6b4-16df-4304-b929-0ce847e77415")
 		)
 		(fp_line
 			(start -1.86 -7.75)
@@ -899,7 +899,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c85815fd-7e63-4cb8-946a-1299d7c44e26")
+			(uuid "af2a3d38-3243-4159-8f0d-01b9e2275bcf")
 		)
 		(fp_line
 			(start 31.94 -7.75)
@@ -909,7 +909,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "13a4b16e-3b95-4147-9730-cbba0ccbff10")
+			(uuid "969d7493-b333-45d6-9f84-607fa03eeeb2")
 		)
 		(fp_line
 			(start 31.94 12.75)
@@ -919,12 +919,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a9a24cad-e3c3-4093-9896-cad8f0712a96")
+			(uuid "ceca3bfc-fa53-428d-947d-47e2d73c2607")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 14.54 2.5 0)
 			(layer "F.Fab")
-			(uuid "4f94594c-2043-419c-b894-0a425ca6f232")
+			(uuid "0cc45933-4e5c-4e36-9e81-4dcd72469161")
 			(effects
 				(font
 					(size 1 1)
@@ -941,7 +941,7 @@
 			(net 5 "Net-(J1-Pin_1)")
 			(pinfunction "AC/L")
 			(pintype "power_in")
-			(uuid "38804a8a-d078-4d39-ad3d-60cfed1ea6fc")
+			(uuid "bbfbef25-ca6e-4ef0-bf64-7f5ac14eb9a2")
 		)
 		(pad "2" thru_hole oval
 			(at 0 5)
@@ -952,7 +952,7 @@
 			(net 4 "Net-(J1-Pin_2)")
 			(pinfunction "AC/N")
 			(pintype "power_in")
-			(uuid "38a1967f-5f30-49b8-aa3f-7e468ef2c1d0")
+			(uuid "fdd7ccaf-2abd-4a90-83b0-8fe4de2154e7")
 		)
 		(pad "3" thru_hole oval
 			(at 29.08 -5)
@@ -963,7 +963,7 @@
 			(net 2 "GND")
 			(pinfunction "-Vout")
 			(pintype "power_out")
-			(uuid "c6ebbe38-4747-4a9c-a23b-a7f6db545ef4")
+			(uuid "200e42cf-cefe-461f-b15d-617523e94727")
 		)
 		(pad "4" thru_hole oval
 			(at 29.08 10)
@@ -974,7 +974,7 @@
 			(net 1 "+5VA")
 			(pinfunction "+Vout")
 			(pintype "power_out")
-			(uuid "96e1ddca-4ed0-4f40-add7-b04ae6bda6bf")
+			(uuid "c176c915-9be4-4477-ae05-22f857bd94e7")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_Hi-Link_HLK-PMxx.wrl"
 			(offset
@@ -991,13 +991,13 @@
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
 		(layer "F.Cu")
 		(uuid "6b2d9e41-58b2-48e1-95e8-9b7441a257e5")
-		(at 140.74 59.69)
+		(at 138.17 58.35)
 		(descr "CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor")
 		(property "Reference" "C2"
 			(at 0.75 -3.25 0)
 			(layer "F.SilkS")
-			(uuid "1d4ec91b-0612-40fc-96df-675897f5dd22")
+			(uuid "d5215d3c-9ed8-473c-ab4d-417f49ffd244")
 			(effects
 				(font
 					(size 1 1)
@@ -1008,7 +1008,7 @@
 		(property "Value" "C_Polarized"
 			(at 0.75 3.25 0)
 			(layer "F.Fab")
-			(uuid "b02c4f14-6703-48aa-b697-b77fdbad3928")
+			(uuid "7d000c1a-73ee-4a60-aeac-13146c24266e")
 			(effects
 				(font
 					(size 1 1)
@@ -1021,7 +1021,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3cb7b98-9740-4b1f-a454-580bbe4da905")
+			(uuid "f38b49b3-e39e-4f1a-8fd1-1bc2d8dd8aa2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1034,7 +1034,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80423be6-6c5d-4862-8738-4d37f9011b93")
+			(uuid "226c6f69-0285-472f-8aa6-aca7160cbdd0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1047,7 +1047,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36933238-f4f4-496d-9c8c-11f50c631141")
+			(uuid "76a329a4-c5d7-4684-8bc3-d2657b34e2f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1068,7 +1068,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bf5ed7e5-f30c-437a-b9a1-935c8bf7f48a")
+			(uuid "4716ea5f-5a3a-49a8-a253-b3445264383f")
 		)
 		(fp_line
 			(start -1.319801 -1.395)
@@ -1078,7 +1078,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "009595dc-7c01-46cd-a30c-5fd749f189be")
+			(uuid "71fdd61d-a2de-431e-b563-2ed22104ebc5")
 		)
 		(fp_line
 			(start 0.75 -2.08)
@@ -1088,7 +1088,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "842515e0-4b2d-489a-ad81-00688b872e91")
+			(uuid "372ea28a-112e-4c7f-b449-370b002c30c8")
 		)
 		(fp_line
 			(start 0.75 0.84)
@@ -1098,7 +1098,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2de6c4c4-5d84-448c-9750-c0d7344c1314")
+			(uuid "6777e91a-dc7d-4783-9ce0-56f66bd66015")
 		)
 		(fp_line
 			(start 0.79 -2.08)
@@ -1108,7 +1108,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f651f241-d938-4239-b9e0-1e56ff75da0f")
+			(uuid "90b35b12-708d-4222-ab83-f4c336a1e9d6")
 		)
 		(fp_line
 			(start 0.79 0.84)
@@ -1118,7 +1118,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2a5f3781-9409-4ea5-8b50-ef54e97c8e99")
+			(uuid "ed6c3d97-8d4f-4379-9a9c-b2c236f94d71")
 		)
 		(fp_line
 			(start 0.83 -2.079)
@@ -1128,7 +1128,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3a0e9d27-4ea9-4649-9764-837f1a58f98d")
+			(uuid "9cdc5f3f-877e-4a4b-93ed-b37b3fa024fa")
 		)
 		(fp_line
 			(start 0.83 0.84)
@@ -1138,7 +1138,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bf66afd7-58a5-4b1a-982f-9c2728242639")
+			(uuid "c2c38363-df91-4cfc-8c9b-2f09de463d7a")
 		)
 		(fp_line
 			(start 0.87 -2.077)
@@ -1148,7 +1148,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c2517bcb-4794-4911-a157-9e32aece0e96")
+			(uuid "7f55c206-2f8c-4289-a486-cac88ebe1662")
 		)
 		(fp_line
 			(start 0.87 0.84)
@@ -1158,7 +1158,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5faedc2f-d7ca-4365-bba5-0598923b2ecf")
+			(uuid "0b22f3e9-10c4-426f-9a32-40f6b32d5dc9")
 		)
 		(fp_line
 			(start 0.91 -2.074)
@@ -1168,7 +1168,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "82699bea-8257-45ce-8d67-538e5ed8881c")
+			(uuid "a735bd86-e03a-4ec6-be2a-f7e4e45b5183")
 		)
 		(fp_line
 			(start 0.91 0.84)
@@ -1178,7 +1178,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "18122797-baf3-4c07-a894-985dc1df0231")
+			(uuid "054b1dbe-3c63-4edb-b279-26bc329e7b32")
 		)
 		(fp_line
 			(start 0.95 -2.071)
@@ -1188,7 +1188,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a783e300-a0bf-4656-8f4c-0df86ae86a85")
+			(uuid "7a6dc028-8bbb-4289-991d-2ba3627ffb59")
 		)
 		(fp_line
 			(start 0.95 0.84)
@@ -1198,7 +1198,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e99d5971-0d38-45d8-8ecf-2627d8c89c20")
+			(uuid "15db302c-6008-4248-952c-9859e5690cdb")
 		)
 		(fp_line
 			(start 0.99 -2.067)
@@ -1208,7 +1208,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "87439f0c-98f2-4675-ae38-37573d44e5cf")
+			(uuid "ccb51197-b90e-426b-9000-fd5769123c26")
 		)
 		(fp_line
 			(start 0.99 0.84)
@@ -1218,7 +1218,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4dbae4d7-5ea7-49e3-8755-79592a58e991")
+			(uuid "a82ca034-21fc-4b1e-ab4e-fcd16d09e2e5")
 		)
 		(fp_line
 			(start 1.03 -2.062)
@@ -1228,7 +1228,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a85b51c0-a56c-41ba-b29d-c1bf2f501ab8")
+			(uuid "00f19585-fe25-4bb4-8501-054fed28f32d")
 		)
 		(fp_line
 			(start 1.03 0.84)
@@ -1238,7 +1238,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "95494d2e-6b3c-4088-9efc-19509330c288")
+			(uuid "150ad35a-01fe-4152-be47-9e5bcbe63b75")
 		)
 		(fp_line
 			(start 1.07 -2.056)
@@ -1248,7 +1248,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "46e13680-ee89-413a-b585-6d29829ac544")
+			(uuid "6b362061-2cda-4f33-8b16-89878b32039b")
 		)
 		(fp_line
 			(start 1.07 0.84)
@@ -1258,7 +1258,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5664e7c8-bf0f-4c77-affe-05597f089d74")
+			(uuid "106b1889-5971-45a1-b312-cbd4c9a722cc")
 		)
 		(fp_line
 			(start 1.11 -2.05)
@@ -1268,7 +1268,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d8dc4cd8-d989-4902-97a7-83180eb6974e")
+			(uuid "4e9f077c-63b9-4b1b-9719-23fef4b6f909")
 		)
 		(fp_line
 			(start 1.11 0.84)
@@ -1278,7 +1278,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "18ce8e01-b3f8-415d-bcfd-523c6836a54e")
+			(uuid "4a74fa82-93c9-43bc-b1d4-5435daa93bb9")
 		)
 		(fp_line
 			(start 1.15 -2.042)
@@ -1288,7 +1288,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a27f0b66-d82b-4f7b-9a95-2b2d04fcd004")
+			(uuid "0cb227c9-e8c6-4bf6-a177-995373eb0af0")
 		)
 		(fp_line
 			(start 1.15 0.84)
@@ -1298,7 +1298,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "07df2a27-2251-4f67-b012-9ef8ec98c607")
+			(uuid "93c148df-46a4-4795-8bef-33c12bba2aba")
 		)
 		(fp_line
 			(start 1.19 -2.034)
@@ -1308,7 +1308,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6c7d7428-ea47-4604-a265-ce81708655e7")
+			(uuid "cf6c7679-726d-456f-91e7-403fc9863b23")
 		)
 		(fp_line
 			(start 1.19 0.84)
@@ -1318,7 +1318,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6782b461-06c7-4780-bd3b-0126d55dd6cc")
+			(uuid "ddd28c0a-6cc9-4e01-8daa-06d35c7e2cde")
 		)
 		(fp_line
 			(start 1.23 -2.025)
@@ -1328,7 +1328,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2beab9c4-e9d3-4231-ad66-9d8eaeb4174d")
+			(uuid "edf847b0-6cdf-49bf-b769-e3c1ca866544")
 		)
 		(fp_line
 			(start 1.23 0.84)
@@ -1338,7 +1338,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6504e1f6-e60c-459c-a1ff-46ef4d25c249")
+			(uuid "ee130700-2325-4498-989e-5b7dd8b53832")
 		)
 		(fp_line
 			(start 1.27 -2.016)
@@ -1348,7 +1348,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "65d50efc-fab1-4f7c-8d5f-c1da09d686d0")
+			(uuid "24e9e297-a5c4-4d9e-b3a7-145b5b6d1386")
 		)
 		(fp_line
 			(start 1.27 0.84)
@@ -1358,7 +1358,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2247445e-d58d-4746-9b62-6153b758777b")
+			(uuid "0e4ac5e5-992a-4c99-8ed3-7a38048d74cf")
 		)
 		(fp_line
 			(start 1.31 -2.005)
@@ -1368,7 +1368,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "719a55bc-1f4d-49fc-a292-c8910ab62efe")
+			(uuid "4874f34a-5ae3-4979-831f-022a206f5788")
 		)
 		(fp_line
 			(start 1.31 0.84)
@@ -1378,7 +1378,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "301f7de4-1c4b-46d8-9214-9011f766462f")
+			(uuid "2ce09ad6-1257-4e03-bb8c-4db642b293bf")
 		)
 		(fp_line
 			(start 1.35 -1.994)
@@ -1388,7 +1388,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cfa44b33-f088-45cc-a6f7-820196a33f3b")
+			(uuid "38fe6102-39da-4b4e-990b-e0e08c49af1c")
 		)
 		(fp_line
 			(start 1.35 0.84)
@@ -1398,7 +1398,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2b6294ed-1e4b-42ea-8f48-58ab1a3b8768")
+			(uuid "75a20365-1bff-491e-a3e4-86fa09dfb0f6")
 		)
 		(fp_line
 			(start 1.39 -1.982)
@@ -1408,7 +1408,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "851f6bde-5863-4150-afe1-ae5697a86a96")
+			(uuid "8cfe5904-ea57-403f-b18b-28fc36390b68")
 		)
 		(fp_line
 			(start 1.39 0.84)
@@ -1418,7 +1418,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3474a419-13b1-4389-8344-1356b86212fc")
+			(uuid "0e3f4734-94eb-4173-b74e-5ff809094861")
 		)
 		(fp_line
 			(start 1.43 -1.968)
@@ -1428,7 +1428,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "506c7714-851b-4751-b151-8d0bec953ea1")
+			(uuid "c5946070-5d3f-42fa-8097-ac3026d21509")
 		)
 		(fp_line
 			(start 1.43 0.84)
@@ -1438,7 +1438,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "172c5973-d2d0-449f-999e-a79287b173d9")
+			(uuid "aa45fd82-1301-4bb3-be6b-baccc8a07373")
 		)
 		(fp_line
 			(start 1.471 -1.954)
@@ -1448,7 +1448,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "58294129-8ecc-4146-90f0-90c5cae4cb49")
+			(uuid "fe8ec55c-c90c-468f-92a2-fc1230c1995f")
 		)
 		(fp_line
 			(start 1.471 0.84)
@@ -1458,7 +1458,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c181a23-c6bd-4625-8ce3-626895754469")
+			(uuid "fba51b87-bef1-4631-8a5e-67abce255d8f")
 		)
 		(fp_line
 			(start 1.511 -1.94)
@@ -1468,7 +1468,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2ddc6448-1b35-46f8-96c0-68983da6956f")
+			(uuid "377dc367-7705-4f09-ad2d-175c8d630c3a")
 		)
 		(fp_line
 			(start 1.511 0.84)
@@ -1478,7 +1478,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ebeb5299-89fc-4024-bbf8-f898403cc8b6")
+			(uuid "b8d2f997-2333-4db1-9643-1f9df53c4f31")
 		)
 		(fp_line
 			(start 1.551 -1.924)
@@ -1488,7 +1488,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a2952515-1d11-40e5-9bcf-18b205f74583")
+			(uuid "3ca22a20-a11b-4310-ab15-0cd63455444c")
 		)
 		(fp_line
 			(start 1.551 0.84)
@@ -1498,7 +1498,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "68fb3ca9-8b34-4803-82cb-4b4c22c31e13")
+			(uuid "b2fa6f30-0bc7-47bb-b9b3-b07c4c57d984")
 		)
 		(fp_line
 			(start 1.591 -1.907)
@@ -1508,7 +1508,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9cc7ab9f-09ba-4971-baa3-76f9a7dbbee2")
+			(uuid "c2be77f2-3a19-462f-89cf-7955df70b0a9")
 		)
 		(fp_line
 			(start 1.591 0.84)
@@ -1518,7 +1518,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c56c07eb-7cf2-41ad-b07f-a98921af209d")
+			(uuid "6be0da50-0acd-4f66-b2f5-be5e8cd1a983")
 		)
 		(fp_line
 			(start 1.631 -1.889)
@@ -1528,7 +1528,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2b0c0264-a9d7-4af1-8dc0-11c4b961a15b")
+			(uuid "40044724-c028-4b8b-81b0-2e015d342f46")
 		)
 		(fp_line
 			(start 1.631 0.84)
@@ -1538,7 +1538,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd9df5f5-34c3-4a1c-97fc-ad507807698c")
+			(uuid "082dadee-4a7e-4245-8c4b-04dec62a19f6")
 		)
 		(fp_line
 			(start 1.671 -1.87)
@@ -1548,7 +1548,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d6b249ad-d317-468c-814b-18c029ca4052")
+			(uuid "dd1a070a-48df-4ad3-9db3-23578cec216f")
 		)
 		(fp_line
 			(start 1.671 0.84)
@@ -1558,7 +1558,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9c4b9125-de2f-487e-a72c-568a140de913")
+			(uuid "9f8aa4b0-5472-4abb-8fbc-5249a7c60f83")
 		)
 		(fp_line
 			(start 1.711 -1.851)
@@ -1568,7 +1568,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4f67ae66-8b3f-4700-82f9-14851a8314b8")
+			(uuid "ada54f95-c519-484a-9457-94652fd20753")
 		)
 		(fp_line
 			(start 1.711 0.84)
@@ -1578,7 +1578,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b8cd5afb-f097-48a4-8582-f8dcec0ffa31")
+			(uuid "5147b150-6f7a-4a17-8bbe-057097907021")
 		)
 		(fp_line
 			(start 1.751 -1.83)
@@ -1588,7 +1588,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c8474af0-2cb5-4bfe-93fa-d4de1e6eaa9d")
+			(uuid "0525a8a1-cd7a-48bf-8264-69896bd04632")
 		)
 		(fp_line
 			(start 1.751 0.84)
@@ -1598,7 +1598,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "90394bbe-a367-42a8-939f-242d3635fd25")
+			(uuid "8a55ef8e-63b6-46ea-b06c-468d88e5f1dd")
 		)
 		(fp_line
 			(start 1.791 -1.808)
@@ -1608,7 +1608,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e56ab11e-e19b-4c81-ab7c-1fd78eacb06b")
+			(uuid "8a828370-dd56-49a4-890b-7acfcac5678a")
 		)
 		(fp_line
 			(start 1.791 0.84)
@@ -1618,7 +1618,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "340bfc04-ae7c-49e7-b78a-ecbaee68a903")
+			(uuid "354720e2-dcc0-483e-9efc-515e72548aea")
 		)
 		(fp_line
 			(start 1.831 -1.785)
@@ -1628,7 +1628,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f822753b-ace1-4dbb-8aa4-56cceb072991")
+			(uuid "632446c5-a122-4682-bd60-fa3fa5a7cf4e")
 		)
 		(fp_line
 			(start 1.831 0.84)
@@ -1638,7 +1638,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1685da40-6e92-4571-b487-eaeb4eb7e1f4")
+			(uuid "d6ed61ed-287e-42a4-a757-dc35a3c01e54")
 		)
 		(fp_line
 			(start 1.871 -1.76)
@@ -1648,7 +1648,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cb540dff-c122-40db-8d19-a9cd7e499ae8")
+			(uuid "6f4ecb6e-27c4-4f10-9998-cf82b53d5d2d")
 		)
 		(fp_line
 			(start 1.871 0.84)
@@ -1658,7 +1658,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "31e5a939-6850-4740-8b88-feb6eb72662e")
+			(uuid "86a9dab0-80f5-4e67-81d9-1f6c30e3264d")
 		)
 		(fp_line
 			(start 1.911 -1.735)
@@ -1668,7 +1668,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "340ba548-fdc3-4953-b22f-ab94a9b22225")
+			(uuid "65ca4f76-6e2d-468e-b94b-dbbb126109db")
 		)
 		(fp_line
 			(start 1.911 0.84)
@@ -1678,7 +1678,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ee92c747-3193-4a30-ac0e-ac8ac016782a")
+			(uuid "baa6a581-215c-466b-a2a2-92630a1b4147")
 		)
 		(fp_line
 			(start 1.951 -1.708)
@@ -1688,7 +1688,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b72228d4-763c-49a5-91e9-bba876cef2ed")
+			(uuid "1ae3c260-48ff-440a-be7c-3d171cca3abf")
 		)
 		(fp_line
 			(start 1.951 0.84)
@@ -1698,7 +1698,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5b1593f0-f240-4aac-a731-4e71fdf7d313")
+			(uuid "0d0a7810-3671-4467-8f57-6b7aad639fde")
 		)
 		(fp_line
 			(start 1.991 -1.68)
@@ -1708,7 +1708,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e9d34853-a87f-44f4-af30-850d09cd6af7")
+			(uuid "2139ca35-054d-4960-87c6-80febd4c2dd2")
 		)
 		(fp_line
 			(start 1.991 0.84)
@@ -1718,7 +1718,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a85882b-832c-4120-b0de-48135ade3fed")
+			(uuid "ad71c1cb-2c06-49b9-bfbb-6a9a69666032")
 		)
 		(fp_line
 			(start 2.031 -1.65)
@@ -1728,7 +1728,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "611f399c-8606-4dc5-b54c-ba38e677e9e7")
+			(uuid "18d403d3-1ba8-4f1b-9026-5b1fe759c027")
 		)
 		(fp_line
 			(start 2.031 0.84)
@@ -1738,7 +1738,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "34d42133-c742-4d5e-9b77-54a5ca4575b2")
+			(uuid "9b18026e-906a-4fa5-8efc-9b365734ad83")
 		)
 		(fp_line
 			(start 2.071 -1.619)
@@ -1748,7 +1748,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "34e1b914-0604-4e59-82fe-ddf32578194d")
+			(uuid "54e8ec75-58e8-4f7d-bd14-3226cebd202c")
 		)
 		(fp_line
 			(start 2.071 0.84)
@@ -1758,7 +1758,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a5534e57-e756-4b06-8e38-52abecab92f9")
+			(uuid "55738136-b754-48d1-b7b1-415e4694d9a4")
 		)
 		(fp_line
 			(start 2.111 -1.587)
@@ -1768,7 +1768,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0055793b-4a7a-4651-ab77-4fbc8e855c55")
+			(uuid "5f817aa7-893e-4dd7-8ede-8f5bf2a2e6b9")
 		)
 		(fp_line
 			(start 2.111 0.84)
@@ -1778,7 +1778,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "313f6883-781b-4e03-96fa-d54caae7d3cd")
+			(uuid "3fa05807-a949-4228-981d-fdbb4956ff54")
 		)
 		(fp_line
 			(start 2.151 -1.552)
@@ -1788,7 +1788,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e3a255ce-6e16-4d18-8feb-40ccc58831f9")
+			(uuid "dcb5ebd3-2005-4ce4-9ef8-5b921bf1c924")
 		)
 		(fp_line
 			(start 2.151 0.84)
@@ -1798,7 +1798,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "028e1ffd-4c6e-4156-9086-f2aabaf495f3")
+			(uuid "88b88241-3fcf-4999-9057-4ce79c4b26a8")
 		)
 		(fp_line
 			(start 2.191 -1.516)
@@ -1808,7 +1808,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b80d3f4b-44ed-4024-8c6f-4d85e5c00481")
+			(uuid "9ae7f28c-a106-4edc-8d1f-ea6b05e9fc80")
 		)
 		(fp_line
 			(start 2.191 0.84)
@@ -1818,7 +1818,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2b376373-6328-41de-9918-80343554ba0b")
+			(uuid "18f748a3-269f-43b0-abcb-cf3c8c6fc3fd")
 		)
 		(fp_line
 			(start 2.231 -1.478)
@@ -1828,7 +1828,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9b8af9f2-b691-44d3-9149-62e88ef80448")
+			(uuid "734b5a68-2ef9-414a-b6d3-f8d3d3fba734")
 		)
 		(fp_line
 			(start 2.231 0.84)
@@ -1838,7 +1838,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f8961dab-16ca-42ef-a175-40b8a2fef809")
+			(uuid "06c8c139-93c8-46ff-8ba5-86502cbf7a93")
 		)
 		(fp_line
 			(start 2.271 -1.438)
@@ -1848,7 +1848,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "307cf92b-15ee-4257-aadb-7212c4a4d6a5")
+			(uuid "375ed89c-d2e0-4cc6-bd2e-d34c4e8d93af")
 		)
 		(fp_line
 			(start 2.271 0.84)
@@ -1858,7 +1858,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "67fea019-bf39-472d-88f9-105d96e3dd34")
+			(uuid "022c70ce-0563-4ac5-bd38-8bcdf94588a2")
 		)
 		(fp_line
 			(start 2.311 -1.396)
@@ -1868,7 +1868,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e99b6fd6-d1c6-47c8-be6b-b13be04bbf3e")
+			(uuid "325d845d-5d23-4715-ac2a-390264be6d8b")
 		)
 		(fp_line
 			(start 2.311 0.84)
@@ -1878,7 +1878,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "378e24f1-4f4a-4e41-9805-353a548272c2")
+			(uuid "86bdc32f-ce85-4cbd-8d20-dbe0001834f4")
 		)
 		(fp_line
 			(start 2.351 -1.351)
@@ -1888,7 +1888,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8af17ed4-eef3-4320-ac1a-f8e82d1531bf")
+			(uuid "eb394b2e-7262-4a0c-a681-c2b6ba9b8e50")
 		)
 		(fp_line
 			(start 2.391 -1.304)
@@ -1898,7 +1898,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e02b1363-4f6a-475f-8982-f0d0a86efc55")
+			(uuid "41aef629-6153-4271-b671-3c1ddaea3608")
 		)
 		(fp_line
 			(start 2.431 -1.254)
@@ -1908,7 +1908,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7175752c-8a4b-4d51-bd3a-f26bbcefc5ed")
+			(uuid "c9a9eb5c-23cd-4aba-a823-6ab89d162d03")
 		)
 		(fp_line
 			(start 2.471 -1.2)
@@ -1918,7 +1918,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "47409343-b37b-4e3b-bac2-327a58e68a3e")
+			(uuid "bf3174a1-7162-4c8f-98af-d7134b09236b")
 		)
 		(fp_line
 			(start 2.511 -1.142)
@@ -1928,7 +1928,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "95de2886-3f6f-4eac-ae76-cbe436673fcc")
+			(uuid "cb496613-5f82-4b1d-82fa-b28bc6b49641")
 		)
 		(fp_line
 			(start 2.551 -1.08)
@@ -1938,7 +1938,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "85e35dc5-b74f-47ef-8e4e-07d70ef663f9")
+			(uuid "1397f175-dd71-4db2-8fca-5f2761a6ed1d")
 		)
 		(fp_line
 			(start 2.591 -1.013)
@@ -1948,7 +1948,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3e2f958d-940f-401d-97d2-20203775985a")
+			(uuid "ebc0ecf1-7c61-445e-90b6-948fea2d0c79")
 		)
 		(fp_line
 			(start 2.631 -0.94)
@@ -1958,7 +1958,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "072d32bf-7e52-47f2-bccb-a5e10425f66d")
+			(uuid "2f649b93-b1b0-4891-abf5-5ee45309d997")
 		)
 		(fp_line
 			(start 2.671 -0.859)
@@ -1968,7 +1968,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ad1645d0-be20-48f0-8306-8e1e9fbb025d")
+			(uuid "45edc6fb-d222-40d6-8717-41d6d0de0d46")
 		)
 		(fp_line
 			(start 2.711 -0.768)
@@ -1978,7 +1978,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b90d9cc5-e346-43b5-b0f5-ccdcc01bd23b")
+			(uuid "38a7fe33-e344-4e98-817c-dd74578f2f04")
 		)
 		(fp_line
 			(start 2.751 -0.664)
@@ -1988,7 +1988,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4a74ae0a-93f6-4ed7-8b8a-32c168a9096d")
+			(uuid "8ad2fe31-5b3c-40f6-861d-95eedbf94932")
 		)
 		(fp_line
 			(start 2.791 -0.537)
@@ -1998,7 +1998,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "584c4645-34be-4538-ae27-bb2d15b1b12b")
+			(uuid "d44b7f10-5db6-4735-8379-d397a51d4f15")
 		)
 		(fp_line
 			(start 2.831 -0.37)
@@ -2008,7 +2008,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "63b700bf-c5a1-42f8-8972-3be20cfcf769")
+			(uuid "fb2d3566-b9f9-4e61-b166-cc86a72b1f6a")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -2019,7 +2019,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "24acb198-f17f-4399-b380-9b8047e3f99a")
+			(uuid "ac289400-0fac-4f19-9461-d860ac2c942e")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -2030,7 +2030,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "15d3fba6-efbc-4ea5-9243-d186a7159582")
+			(uuid "22c530bc-089d-4469-b5b9-c330c7388063")
 		)
 		(fp_line
 			(start -0.952554 -0.8675)
@@ -2040,7 +2040,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a08136c4-b189-4581-bbe0-267cacc35306")
+			(uuid "4847621b-9199-4b05-8708-f9af502b8878")
 		)
 		(fp_line
 			(start -0.752554 -1.0675)
@@ -2050,7 +2050,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "01bc5b9b-efee-4d13-8e38-c0d3f11f5b08")
+			(uuid "22b668f1-3606-4413-9590-7b185bbb254b")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -2061,12 +2061,12 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "b3ffa50f-50b0-49d6-bffa-8498db3bb1a8")
+			(uuid "469aa7b7-0332-4fa1-9882-ec5df7aa7a44")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.75 0 0)
 			(layer "F.Fab")
-			(uuid "64bd5b5a-4f2b-46ed-9620-e6b29317a724")
+			(uuid "9e1365ee-069b-4b49-b440-e96e63c00deb")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -2082,7 +2082,7 @@
 			(remove_unused_layers no)
 			(net 3 "+3.3V")
 			(pintype "passive")
-			(uuid "1f53bbe1-9aa9-4e53-970e-d55517dd14ae")
+			(uuid "81bf4f58-b131-41d0-95ea-ebe119797ed1")
 		)
 		(pad "2" thru_hole circle
 			(at 1.5 0)
@@ -2092,7 +2092,7 @@
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pintype "passive")
-			(uuid "3fd67f8b-3583-441e-924d-27f6cc95b38a")
+			(uuid "5b08279a-a2bd-4f5f-841a-8babc0107d68")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P1.50mm.wrl"
 			(offset
@@ -2109,14 +2109,14 @@
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
 		(layer "F.Cu")
 		(uuid "915dae7e-dfb2-44eb-91f6-4f6a81ac7d22")
-		(at 153.67 69.85)
+		(at 151.43 68.66)
 		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
 		(tags "mounting hole 2.2mm no annular m2 din965")
 		(property "Reference" "H4"
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "edba6e91-e5ba-409d-9475-f3bb701d956b")
+			(uuid "bb68585a-16a9-4337-94b9-bba33eccf277")
 			(effects
 				(font
 					(size 1 1)
@@ -2127,7 +2127,7 @@
 		(property "Value" "MountingHole"
 			(at 0 2.9 0)
 			(layer "F.Fab")
-			(uuid "9c46421b-73b5-4b9d-85e7-fa2392dd7f50")
+			(uuid "99c4ae69-5499-49b7-a77d-e3b92234c470")
 			(effects
 				(font
 					(size 1 1)
@@ -2140,7 +2140,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40e00cc0-ae3b-4e56-9a01-13b269d6b6d0")
+			(uuid "cd1f52fe-c623-42d7-ad26-575f1382eca3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2153,7 +2153,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "deb10d59-f3e3-4b90-b496-ea5fdecc6300")
+			(uuid "5759f2ca-f89a-498d-b437-ee0dd87f0eb4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +2166,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e20eb2c2-9722-49fd-bf0b-0e8ff78f79d5")
+			(uuid "f524f8f9-0231-4e58-99b2-051cef490783")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2188,7 +2188,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "0f921384-9f82-4af6-ac80-1f053ad7a63a")
+			(uuid "4adf6230-4cfe-4c01-9e1d-fd6f04238782")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2199,12 +2199,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "06b73f9d-2855-45b4-a1c1-54700d167b2e")
+			(uuid "f75b232d-0730-4160-a112-e58cf00465ac")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "1cab019a-bfcc-4a9d-8ea5-8c5f2845ae76")
+			(uuid "d2624197-421a-4fed-b6de-095272737398")
 			(effects
 				(font
 					(size 1 1)
@@ -2217,19 +2217,19 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "b600bb32-eee6-4224-bd31-99c02ba49130")
+			(uuid "da574b4f-ec2c-47af-ba0b-1018832dd183")
 		)
 	)
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d2831bac-73f1-40c1-aa42-1f1d4a754319")
-		(at 83.82 55.88 180)
+		(at 78.695 54.455 -90)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm")
 		(property "Reference" "J1"
-			(at 2.54 -6.26 360)
+			(at 2.54 -6.26 90)
 			(layer "F.SilkS")
-			(uuid "640fc0de-fef4-4e34-9cc7-b622ead428b9")
+			(uuid "a3dcf08e-65e3-4a14-8823-47c274823dbd")
 			(effects
 				(font
 					(size 1 1)
@@ -2238,9 +2238,9 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 2.54 5.66 360)
+			(at 2.54 5.66 90)
 			(layer "F.Fab")
-			(uuid "4cf1e021-7b99-413b-9a09-698c121dc43d")
+			(uuid "eb3cd26a-365c-449a-83de-6ad4b58aeeef")
 			(effects
 				(font
 					(size 1 1)
@@ -2249,11 +2249,11 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 0 0 180)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c62b58c3-89c3-4004-99a6-07d406147f28")
+			(uuid "0215dfe6-b8f3-4796-940d-6bf3b6d4c1ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2262,11 +2262,11 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 180)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb321d53-39bd-4a79-802e-a0f6aefe4b7e")
+			(uuid "8714380b-6592-46a5-b855-a4e11a82895d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2275,11 +2275,11 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 180)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fea4690a-6c53-4965-a23f-156b29c0a1b0")
+			(uuid "795b3086-17bf-496c-a595-f10cf6459eb5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2293,54 +2293,14 @@
 		(sheetfile "TigPowerSupply.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 7.68 -5.261)
-			(end 7.68 4.66)
+			(start -2.84 4.9)
+			(end -2.34 4.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "13628887-9761-406a-83e3-914cfd098988")
-		)
-		(fp_line
-			(start 6.355 -1.069)
-			(end 6.308 -1.023)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "527e69af-84e3-446c-8ecc-dba5bbc99d34")
-		)
-		(fp_line
-			(start 6.15 -1.275)
-			(end 6.115 -1.239)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "36f82b39-ae92-4d5f-8ce2-e0732edbb306")
-		)
-		(fp_line
-			(start 4.046 1.239)
-			(end 4.011 1.274)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "002c0606-8550-4d94-b157-4c2bce135ab1")
-		)
-		(fp_line
-			(start 3.853 1.023)
-			(end 3.806 1.069)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c0f408a4-87be-401a-a177-2ee93b7a6276")
+			(uuid "2a44077b-0c3f-4fdf-808d-4ed75ef68dae")
 		)
 		(fp_line
 			(start -2.6 4.66)
@@ -2350,67 +2310,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e6b626af-0d79-43b1-a809-02bbb5c2dffb")
-		)
-		(fp_line
-			(start -2.6 4.1)
-			(end 7.68 4.1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "fa3654f1-8928-4764-a03a-e76d26d78080")
-		)
-		(fp_line
-			(start -2.6 2.6)
-			(end 7.68 2.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8f5225bd-dd6d-46af-ab71-378aea58139a")
-		)
-		(fp_line
-			(start -2.6 -2.301)
-			(end 7.68 -2.301)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f2745bde-7de4-40e3-8ab3-d62e91628ebe")
-		)
-		(fp_line
-			(start -2.6 -5.261)
-			(end 7.68 -5.261)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "fdd5533f-2bfa-4889-8325-790a3804f84b")
-		)
-		(fp_line
-			(start -2.6 -5.261)
-			(end -2.6 4.66)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ce227663-ce62-440b-85e5-e365ce97921f")
-		)
-		(fp_line
-			(start -2.84 4.9)
-			(end -2.34 4.9)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "132f55b6-2b38-432e-86bb-3aa6b32eb7d0")
+			(uuid "4eb62735-4063-4e87-b429-4c6351e582ca")
 		)
 		(fp_line
 			(start -2.84 4.16)
@@ -2420,29 +2320,107 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b79eb8cc-5015-4b04-a3c0-5edd65f35e27")
+			(uuid "6501c1fb-7a15-4f20-b526-5a7370471864")
 		)
-		(fp_arc
-			(start 1.535427 -0.683042)
-			(mid 1.680501 0.000524)
-			(end 1.535 0.684)
+		(fp_line
+			(start -2.6 4.1)
+			(end 7.68 4.1)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b69be5f5-978b-4064-bf00-f1fe20e7e3f7")
+			(uuid "160c1490-a2ee-4aae-ac5b-003fbacbfe36")
 		)
-		(fp_arc
-			(start 0.683318 1.534756)
-			(mid 0.349292 1.643288)
-			(end 0 1.68)
+		(fp_line
+			(start -2.6 2.6)
+			(end 7.68 2.6)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e1207efa-d99f-47ab-9e76-a74ac09f0173")
+			(uuid "62fb469d-c5dd-4e2b-9c8d-3ed137580623")
+		)
+		(fp_line
+			(start 4.046 1.239)
+			(end 4.011 1.274)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ddf5253a-2316-423b-9532-876b7bba5d7b")
+		)
+		(fp_line
+			(start 3.853 1.023)
+			(end 3.806 1.069)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f17d665b-1689-4c5e-bea8-6fc3f10e2e97")
+		)
+		(fp_line
+			(start 6.355 -1.069)
+			(end 6.308 -1.023)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e74b3ff6-8f4d-44ac-8a5a-795fc2dca601")
+		)
+		(fp_line
+			(start 6.15 -1.275)
+			(end 6.115 -1.239)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "59221b60-c148-4714-8ff5-92f315c3f7b1")
+		)
+		(fp_line
+			(start -2.6 -2.301)
+			(end 7.68 -2.301)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "57161317-7f57-4f3f-a2ac-f08b43019af3")
+		)
+		(fp_line
+			(start -2.6 -5.261)
+			(end -2.6 4.66)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "396359d0-5256-4d43-9de4-de1069f3c918")
+		)
+		(fp_line
+			(start -2.6 -5.261)
+			(end 7.68 -5.261)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "5269ca41-dfbf-4520-bca4-1bca04818c0a")
+		)
+		(fp_line
+			(start 7.68 -5.261)
+			(end 7.68 4.66)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a573926b-3c3d-42e0-bf18-0cb69e8f8b0b")
 		)
 		(fp_arc
 			(start 0.028805 1.680253)
@@ -2453,18 +2431,18 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4eb184fd-542d-4d9e-a985-eca2a5155e31")
+			(uuid "71a3896b-239b-4e09-9172-2ec278c744b2")
 		)
 		(fp_arc
-			(start -0.683042 -1.535427)
-			(mid 0.000524 -1.680501)
-			(end 0.684 -1.535)
+			(start 0.683318 1.534756)
+			(mid 0.349292 1.643288)
+			(end 0 1.68)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bc2a99e6-5a8f-454b-9bd6-9de3775b3d9a")
+			(uuid "03e2bd2d-243c-4b95-bbd6-6665e02eac17")
 		)
 		(fp_arc
 			(start -1.535427 0.683042)
@@ -2475,7 +2453,29 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8baf7dc9-cabd-4e8b-b1e9-0198bbd57e9d")
+			(uuid "bac0045f-6b7c-44b7-9cd9-e01f413026de")
+		)
+		(fp_arc
+			(start 1.535427 -0.683042)
+			(mid 1.680501 0.000524)
+			(end 1.535 0.684)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d0de1dd6-4cf3-4502-9486-4c1b9df4a3d6")
+		)
+		(fp_arc
+			(start -0.683042 -1.535427)
+			(mid 0.000524 -1.680501)
+			(end 0.684 -1.535)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b4eab9b9-827b-4b67-b4b2-fd3122a1f49a")
 		)
 		(fp_circle
 			(center 5.08 0)
@@ -2486,27 +2486,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "f775fcd0-5129-465a-b344-458c7e0dae41")
-		)
-		(fp_line
-			(start 8.13 5.1)
-			(end 8.13 -5.71)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "75fddff5-6487-48f8-91b1-65bee9f6242f")
-		)
-		(fp_line
-			(start 8.13 -5.71)
-			(end -3.04 -5.71)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "280cc547-24c7-4411-b791-2c1d6bbd130a")
+			(uuid "0652b2d8-1695-4953-bd4a-655a0ebcda0d")
 		)
 		(fp_line
 			(start -3.04 5.1)
@@ -2516,7 +2496,17 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2065ed3b-ff03-497a-ae03-e70eccd8ed56")
+			(uuid "756c04e0-457a-4303-99bd-18b3761004fe")
+		)
+		(fp_line
+			(start 8.13 5.1)
+			(end 8.13 -5.71)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "deba1146-897f-43d3-b8f5-d810965515d6")
 		)
 		(fp_line
 			(start -3.04 -5.71)
@@ -2526,67 +2516,17 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ceaa17e8-4dc7-4beb-8d23-81a0445c6c2b")
+			(uuid "8f159058-2461-4e66-bc4d-df2047405760")
 		)
 		(fp_line
-			(start 7.62 4.6)
-			(end -2.04 4.6)
+			(start 8.13 -5.71)
+			(end -3.04 -5.71)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "288635dc-da01-4222-a9d8-2667809b47b6")
-		)
-		(fp_line
-			(start 7.62 -5.2)
-			(end 7.62 4.6)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "38529b4d-87ef-4491-b60b-6015b47e93b5")
-		)
-		(fp_line
-			(start 6.218 -0.955)
-			(end 4.126 1.138)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "29a35b2d-0e78-4fe5-aab2-62f5de8fc9f1")
-		)
-		(fp_line
-			(start 6.035 -1.138)
-			(end 3.943 0.955)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "48ffa318-49a8-417b-80d0-f4f0a9633586")
-		)
-		(fp_line
-			(start 1.138 -0.955)
-			(end -0.955 1.138)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a1a3ca3a-f32c-4959-8bbd-5783c952065a")
-		)
-		(fp_line
-			(start 0.955 -1.138)
-			(end -1.138 0.955)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c65cde81-52bf-4411-b6d8-9e571ba0b152")
+			(layer "F.CrtYd")
+			(uuid "0317d7d2-4c41-44ee-9a49-fb411e1ac916")
 		)
 		(fp_line
 			(start -2.04 4.6)
@@ -2596,7 +2536,17 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "051dd9cf-2895-4793-afc1-9e69075a4a54")
+			(uuid "88d86f34-b0de-493f-8b69-a490d10db7a8")
+		)
+		(fp_line
+			(start 7.62 4.6)
+			(end -2.04 4.6)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "43e72371-2339-494a-bd91-54a9a2a51c3f")
 		)
 		(fp_line
 			(start -2.54 4.1)
@@ -2606,7 +2556,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c10e606a-b9d4-4a4a-a7e1-d782b7e359ac")
+			(uuid "e6b88872-4521-4e64-94ba-7f23f210f1f6")
 		)
 		(fp_line
 			(start -2.54 4.1)
@@ -2616,7 +2566,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "88aa3ba5-fb86-46d8-8897-807dcaea1b8d")
+			(uuid "1ddba268-64bb-4928-8e57-8d8e64458933")
 		)
 		(fp_line
 			(start -2.54 2.6)
@@ -2626,7 +2576,47 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4e7b9c2c-baf5-48bf-b368-49eb96db6793")
+			(uuid "c73629db-4e20-4444-a9d2-7d36f0f61117")
+		)
+		(fp_line
+			(start 1.138 -0.955)
+			(end -0.955 1.138)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "1a6215dc-9dd3-4a0b-a8a1-21be8c2ef10a")
+		)
+		(fp_line
+			(start 6.218 -0.955)
+			(end 4.126 1.138)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6a66ccbb-2596-4e3a-b98d-108ebe603257")
+		)
+		(fp_line
+			(start 0.955 -1.138)
+			(end -1.138 0.955)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "101b6505-0e44-4772-a40c-0ea2d29cb8f3")
+		)
+		(fp_line
+			(start 6.035 -1.138)
+			(end 3.943 0.955)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "27c7eb82-d9df-43a1-851d-5a74b98d9be7")
 		)
 		(fp_line
 			(start -2.54 -2.3)
@@ -2636,7 +2626,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d384b9d2-a0a6-415c-b6d1-696d754c633c")
+			(uuid "d1639950-e393-4bfd-91e6-fa3ec4085407")
 		)
 		(fp_line
 			(start -2.54 -5.2)
@@ -2646,18 +2636,17 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2fef3717-541f-4625-8aef-c92d67b5fb7e")
+			(uuid "34f624b2-6e53-4d7c-9f7b-1111e996e261")
 		)
-		(fp_circle
-			(center 5.08 0)
-			(end 6.58 0)
+		(fp_line
+			(start 7.62 -5.2)
+			(end 7.62 4.6)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(fill none)
 			(layer "F.Fab")
-			(uuid "6c566a7d-76e5-4d7e-ad10-5d52f8b883e7")
+			(uuid "dae9e776-fa69-4ba6-ad5a-2b66a1ca5201")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2668,12 +2657,23 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "baf1763b-8f9b-4228-8983-de799adc315f")
+			(uuid "8b63a7d0-5a1a-46af-a454-eed7f3809da2")
+		)
+		(fp_circle
+			(center 5.08 0)
+			(end 6.58 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "cbed681a-ab84-43aa-a58f-33d6dccbb9f9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 3.2 360)
+			(at 2.54 3.2 135)
 			(layer "F.Fab")
-			(uuid "ced2bf89-e8c8-4611-bb3e-a00fe73aaa07")
+			(uuid "79b0d6dc-ecab-49d2-87e5-fe1d10197679")
 			(effects
 				(font
 					(size 1 1)
@@ -2682,7 +2682,7 @@
 			)
 		)
 		(pad "1" thru_hole rect
-			(at 0 0 180)
+			(at 0 0 270)
 			(size 2.6 2.6)
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask")
@@ -2690,10 +2690,10 @@
 			(net 5 "Net-(J1-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "eada8d66-8eec-43b0-a494-d5da5096270d")
+			(uuid "5a58423e-5d0f-44f1-9629-83d2f2179dfa")
 		)
 		(pad "2" thru_hole circle
-			(at 5.08 0 180)
+			(at 5.08 0 270)
 			(size 2.6 2.6)
 			(drill 1.3)
 			(layers "*.Cu" "*.Mask")
@@ -2701,7 +2701,7 @@
 			(net 4 "Net-(J1-Pin_2)")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "761dc219-d1c0-4b74-8c99-b7dfd2a217f2")
+			(uuid "a6c75f25-9165-4090-b49e-272ec69976ce")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.wrl"
 			(offset
@@ -2718,14 +2718,14 @@
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
 		(layer "F.Cu")
 		(uuid "e25a249e-e7e3-4324-a7b8-53b33e7c29c0")
-		(at 77.47 44.45)
+		(at 77.43 43.66)
 		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
 		(tags "mounting hole 2.2mm no annular m2 din965")
 		(property "Reference" "H1"
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ffbcb942-42ca-4743-9f94-bb595aacf666")
+			(uuid "5d25c7db-9cc6-47a2-9ae0-bfc298667b4e")
 			(effects
 				(font
 					(size 1 1)
@@ -2736,7 +2736,7 @@
 		(property "Value" "MountingHole"
 			(at 0 2.9 0)
 			(layer "F.Fab")
-			(uuid "fb2c63aa-51cf-4149-ad73-7646a3e2e775")
+			(uuid "d964a46c-ab5a-4a9c-bed8-09ae3a840238")
 			(effects
 				(font
 					(size 1 1)
@@ -2749,7 +2749,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48dadc3d-155d-4b36-b5c5-eb50ab927744")
+			(uuid "4510951f-67f8-41b6-8f2e-9f2040e91996")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +2762,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aeeb340f-ac15-4d77-b09b-195e5f78fccd")
+			(uuid "626b86f8-8b3e-4300-824d-89910178fead")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2775,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2437e20c-0958-42da-b953-37149099f4c2")
+			(uuid "5043c100-9fca-4d2a-be26-b4f706d421a9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2797,7 +2797,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "151ae41e-de0d-427a-b1e4-e7769a2c592c")
+			(uuid "b318302c-cd15-4fdb-8bb6-cc39d2c6892d")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2808,12 +2808,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "b9753544-1818-45d8-9919-c0f0a59a4ca0")
+			(uuid "eac85e48-67d7-4216-b301-8401426eac2d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 2 0 0)
 			(layer "F.Fab")
-			(uuid "d338bc21-4508-48d1-ad94-b2a4f744088b")
+			(uuid "51746af1-31fb-415f-b117-7b96f6164842")
 			(effects
 				(font
 					(size 1 1)
@@ -2826,20 +2826,20 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "de646924-458c-4af1-9a00-2c24a5bcea6b")
+			(uuid "cd5404cf-dd57-46e7-b3a5-f63ca51acd9d")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
 		(layer "F.Cu")
 		(uuid "e308ae4d-9c28-44ed-839e-ebdf516c6252")
-		(at 153.67 44.45)
+		(at 151.43 43.66)
 		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
 		(tags "mounting hole 2.2mm no annular m2 din965")
 		(property "Reference" "H3"
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "30630972-0bc9-4e04-8a65-fcab275ab9e4")
+			(uuid "86869cd9-569f-4784-9915-18aec2a9078b")
 			(effects
 				(font
 					(size 1 1)
@@ -2850,7 +2850,7 @@
 		(property "Value" "MountingHole"
 			(at 0 2.9 0)
 			(layer "F.Fab")
-			(uuid "daf305f4-6d36-4b44-b169-d63f16820dae")
+			(uuid "dee474f5-3521-4e6d-8cd8-ea9ad7c1dbd3")
 			(effects
 				(font
 					(size 1 1)
@@ -2863,7 +2863,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "be26157b-406e-4c3b-827c-bf65108f7570")
+			(uuid "47a389d6-ebcb-4b3b-95d1-a5f6cf4d4b3a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,7 +2876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1dff5823-55f0-4d10-b8d9-2c6722181405")
+			(uuid "6d269049-1adc-48b4-a6c8-e849fb1526f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,7 +2889,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2bd56a81-22cb-4723-926e-d42bb38b79a7")
+			(uuid "eb14cfd8-e1af-4c57-9049-1ab305c308a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +2911,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "c8149e7e-a540-483f-8155-27449b26d873")
+			(uuid "5eddb0bb-2709-4443-89f0-f2b4d6196aaa")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2922,12 +2922,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "9c9a1dc6-823e-4288-8858-6ec48d25d780")
+			(uuid "78cafff2-7b99-4520-b761-0663a877b5cd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -1 -1 0)
 			(layer "F.Fab")
-			(uuid "960d2f30-2142-41d4-8c57-3018053687f2")
+			(uuid "911916b0-de3e-4f17-8dba-6172839ecea0")
 			(effects
 				(font
 					(size 1 1)
@@ -2940,20 +2940,20 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "9c7e719e-80e0-4283-ad79-a94b88779516")
+			(uuid "a51fa7b3-7826-4328-b745-35971aab4604")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
 		(layer "F.Cu")
 		(uuid "ee7b09dc-419e-4058-9657-37766d416adc")
-		(at 78.74 69.85)
+		(at 76.43 68.66)
 		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
 		(tags "mounting hole 2.2mm no annular m2 din965")
 		(property "Reference" "H2"
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "a5ba3fcb-37b7-448f-bef6-da5f075e2ffb")
+			(uuid "512756a0-e387-4069-a914-4c21c4f2191d")
 			(effects
 				(font
 					(size 1 1)
@@ -2964,7 +2964,7 @@
 		(property "Value" "MountingHole"
 			(at 0 2.9 0)
 			(layer "F.Fab")
-			(uuid "9d3075ef-fab5-44a4-b468-31eadd399773")
+			(uuid "5915f190-ce0c-40ad-ad5d-6b7a2458d25a")
 			(effects
 				(font
 					(size 1 1)
@@ -2977,7 +2977,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "00ff746a-d3f1-4e21-8f41-f600596c8eb8")
+			(uuid "36aaaa59-62de-4241-b868-3b56633740da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,7 +2990,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c404f04-3685-41d4-aa63-1204abaac808")
+			(uuid "e3823c77-213c-4e1b-a69f-dde02fc3f9df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3003,7 +3003,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5b85042-49d8-4c6d-99fa-4751be3d5046")
+			(uuid "61f5d07b-a17a-4abb-8b77-3d3784a85f70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3025,7 +3025,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "3f8d7e62-af44-493e-9440-9c38f0892226")
+			(uuid "15f63e67-c1a0-4588-8b53-82971ffc3b00")
 		)
 		(fp_circle
 			(center 0 0)
@@ -3036,12 +3036,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "5a687d03-e4e1-4c57-aabc-f6baaf2c351c")
+			(uuid "a0450401-ebd8-4b09-8e87-2ebab05045cf")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "060e9e52-56e0-4d33-9baf-c29ecbcc1015")
+			(uuid "4b162022-819b-463e-9ff3-3a8616a0e36b")
 			(effects
 				(font
 					(size 1 1)
@@ -3054,19 +3054,19 @@
 			(size 2.2 2.2)
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "637517c5-e4fa-4f7c-b39c-019afad58c32")
+			(uuid "4cba8a47-1eef-4768-934d-ed831e8876eb")
 		)
 	)
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
 		(layer "F.Cu")
 		(uuid "f3382649-ed82-4e98-8014-86c1f3eab172")
-		(at 134.39 59.69)
+		(at 131.82 58.35)
 		(descr "CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor")
 		(property "Reference" "C1"
 			(at 0.75 -3.25 0)
 			(layer "F.SilkS")
-			(uuid "5c49947f-3edd-4806-98f7-0eb13b084c5c")
+			(uuid "c39e12c9-2c96-41cc-8ab5-61a71e0b835e")
 			(effects
 				(font
 					(size 1 1)
@@ -3077,7 +3077,7 @@
 		(property "Value" "C_Polarized"
 			(at 0.75 3.25 0)
 			(layer "F.Fab")
-			(uuid "fd5c4360-63e3-406c-867b-a903aa53ec27")
+			(uuid "a5084b94-0b2a-41d0-8840-ea22d493ebc9")
 			(effects
 				(font
 					(size 1 1)
@@ -3090,7 +3090,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6516ec0e-2b17-412b-83ba-d54b3b77f162")
+			(uuid "6212b779-dd33-4eac-9c0e-40d9898e33a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3103,7 +3103,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea4e10e9-ac48-4689-a884-5ce0e658db84")
+			(uuid "1166a879-e951-4443-8aa9-947494f19ef7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3116,7 +3116,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23d5308c-4436-4ec9-8b67-d61831012b58")
+			(uuid "928aa08c-2c54-42cf-93d1-1a9c73306145")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3137,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "df28e170-78a0-4c89-8397-d7f28fdb5812")
+			(uuid "d54b2d9d-827c-48ea-b4ee-ab93075b5c86")
 		)
 		(fp_line
 			(start -1.319801 -1.395)
@@ -3147,7 +3147,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d178c95a-dd2c-4d08-b04a-3cff83b7ead8")
+			(uuid "cfbdc868-7064-4db9-8f2c-520130b5b7f1")
 		)
 		(fp_line
 			(start 0.75 -2.08)
@@ -3157,7 +3157,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2f2ba11-ef11-42d5-a774-c464b54dd573")
+			(uuid "8128af22-3048-48c7-bdf2-c7fdba55416d")
 		)
 		(fp_line
 			(start 0.75 0.84)
@@ -3167,7 +3167,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "628bb5b4-c0fa-4b14-bb94-283d1114f85a")
+			(uuid "0f886898-26fb-4ee4-b669-e2c38ef16a77")
 		)
 		(fp_line
 			(start 0.79 -2.08)
@@ -3177,7 +3177,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ebe3c867-2146-4988-ad82-4e37bc84173e")
+			(uuid "dc3766e0-e32f-49ec-80a1-a63f7db1b362")
 		)
 		(fp_line
 			(start 0.79 0.84)
@@ -3187,7 +3187,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "40d02843-6752-49e1-b84f-331a020cd224")
+			(uuid "4f3c0926-4382-405c-a28e-ef7bada463a4")
 		)
 		(fp_line
 			(start 0.83 -2.079)
@@ -3197,7 +3197,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "64e792da-6c2b-4b99-9ecd-97b0edcea3d0")
+			(uuid "fb950af7-411a-49bf-896f-61135e702ce2")
 		)
 		(fp_line
 			(start 0.83 0.84)
@@ -3207,7 +3207,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2cde1da3-984a-41e5-b604-41f7738bb286")
+			(uuid "1ea8b470-0ee6-4e0a-ab54-11284214ccee")
 		)
 		(fp_line
 			(start 0.87 -2.077)
@@ -3217,7 +3217,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a33f80f0-6b1c-4549-8684-35a2021934c5")
+			(uuid "8ca18e90-d57e-4c87-ae7d-37373ed9a5b5")
 		)
 		(fp_line
 			(start 0.87 0.84)
@@ -3227,7 +3227,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "969fbfb9-cbab-47b6-9c57-f103af89cc1b")
+			(uuid "bb1c4f9a-c43d-42d1-86c8-f0818ebaf650")
 		)
 		(fp_line
 			(start 0.91 -2.074)
@@ -3237,7 +3237,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5a735e1f-2a2b-4fe8-931e-0f3c74cc0e78")
+			(uuid "e995200e-08f0-464c-aa04-434a8d871395")
 		)
 		(fp_line
 			(start 0.91 0.84)
@@ -3247,7 +3247,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0844bbe5-b87f-4662-b22a-90453c30dfc9")
+			(uuid "029d9e37-47fc-4b08-9528-954dc75dddd5")
 		)
 		(fp_line
 			(start 0.95 -2.071)
@@ -3257,7 +3257,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "86c7ca57-5255-43ce-bee5-688943712c94")
+			(uuid "954c9134-04d8-4ec2-aa47-3afd1662c49f")
 		)
 		(fp_line
 			(start 0.95 0.84)
@@ -3267,7 +3267,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ad7866c8-0019-4396-a5cb-c2f492f8be1a")
+			(uuid "0e080466-0103-4c93-a3be-26c6674b9839")
 		)
 		(fp_line
 			(start 0.99 -2.067)
@@ -3277,7 +3277,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1ca81e4b-5d20-44ce-9964-ea87b2ab3443")
+			(uuid "83421d4c-959f-4a72-b44e-b6489a095b54")
 		)
 		(fp_line
 			(start 0.99 0.84)
@@ -3287,7 +3287,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7029d1a4-ebe2-453c-b002-926075291000")
+			(uuid "6ad766a0-af0a-4245-ad14-8a9e4f62716d")
 		)
 		(fp_line
 			(start 1.03 -2.062)
@@ -3297,7 +3297,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f4854a19-8c3f-4a93-bfcd-b67a16d539d4")
+			(uuid "47d3927b-efc0-4465-9486-98130e364745")
 		)
 		(fp_line
 			(start 1.03 0.84)
@@ -3307,7 +3307,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "34c951b8-ea62-4d24-a62e-14893b9d030f")
+			(uuid "30013e24-f203-46cf-99fc-207453bbf94e")
 		)
 		(fp_line
 			(start 1.07 -2.056)
@@ -3317,7 +3317,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "422a7f70-90db-40d7-88f9-03f30b376c61")
+			(uuid "67361d09-4e4c-479b-80a0-0b90bbbe82ae")
 		)
 		(fp_line
 			(start 1.07 0.84)
@@ -3327,7 +3327,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ea59b896-f0e1-4182-a8cd-88e7ce2805d1")
+			(uuid "716e437e-618d-428c-ba78-9f9c6b1a301f")
 		)
 		(fp_line
 			(start 1.11 -2.05)
@@ -3337,7 +3337,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1132c5bb-8c03-465f-bd7e-101fbace0cbb")
+			(uuid "6002fff5-97c8-4361-aba4-082ddfaf85ff")
 		)
 		(fp_line
 			(start 1.11 0.84)
@@ -3347,7 +3347,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0ff7ca8a-4034-4ccf-85bf-477cabcf2ace")
+			(uuid "9bf329e1-290e-43ef-a2b8-7c10150548a1")
 		)
 		(fp_line
 			(start 1.15 -2.042)
@@ -3357,7 +3357,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ba8a054e-37d7-4992-90e8-7d26966c6f5f")
+			(uuid "95db6b7f-4077-4c2a-9793-92c49ca7828b")
 		)
 		(fp_line
 			(start 1.15 0.84)
@@ -3367,7 +3367,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a3d1ac8-ef46-46e1-9771-9df456b42277")
+			(uuid "5095f708-8f10-4360-832b-c1899339d030")
 		)
 		(fp_line
 			(start 1.19 -2.034)
@@ -3377,7 +3377,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e9994a84-cf7b-42bc-8018-fba8b5e68d4c")
+			(uuid "51d80099-9435-49b4-97b0-e7f16becb406")
 		)
 		(fp_line
 			(start 1.19 0.84)
@@ -3387,7 +3387,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "da2baca4-8010-4f6b-b76f-90974b94bb96")
+			(uuid "d5cbe40d-628f-4d8a-9635-24ad70b8c6ed")
 		)
 		(fp_line
 			(start 1.23 -2.025)
@@ -3397,7 +3397,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7138f21f-2cd9-4cd8-917c-d41dc28fae70")
+			(uuid "ff6e7c90-94e2-44fb-a2d3-3d268d942672")
 		)
 		(fp_line
 			(start 1.23 0.84)
@@ -3407,7 +3407,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a0572e75-610a-4b65-bf74-b45ab154d8ab")
+			(uuid "1ae53fe1-21ee-4b3d-a8cc-f1f152e7214f")
 		)
 		(fp_line
 			(start 1.27 -2.016)
@@ -3417,7 +3417,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3e834061-750e-4913-9583-d108473b2525")
+			(uuid "06acacbf-dab3-47d1-ac24-80e77d87dd53")
 		)
 		(fp_line
 			(start 1.27 0.84)
@@ -3427,7 +3427,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cf0abcc2-8bd6-4fd2-b6d3-9a58b2a9f7d9")
+			(uuid "d32fed19-d93e-4104-95af-adf027e12efa")
 		)
 		(fp_line
 			(start 1.31 -2.005)
@@ -3437,7 +3437,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "63bc970c-9380-4592-8038-445fcab61e5b")
+			(uuid "5164d313-fa7a-462d-bd9c-bb564074262e")
 		)
 		(fp_line
 			(start 1.31 0.84)
@@ -3447,7 +3447,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7f0a5504-ebdb-469a-934d-b43f4f32115f")
+			(uuid "26d8ab2b-84be-47f5-b607-0d2329c3f29f")
 		)
 		(fp_line
 			(start 1.35 -1.994)
@@ -3457,7 +3457,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c7b39a75-6710-4e09-89d1-2d0efd3116c2")
+			(uuid "d5fa1f82-1a19-4f76-bd15-c5aaceb95bb3")
 		)
 		(fp_line
 			(start 1.35 0.84)
@@ -3467,7 +3467,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "86412d29-8d34-463c-8c0c-b97334288178")
+			(uuid "df7c3c64-d645-4301-984b-03849c0487b0")
 		)
 		(fp_line
 			(start 1.39 -1.982)
@@ -3477,7 +3477,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "838baae9-9bc3-48e4-ad66-d17935f95a96")
+			(uuid "3fa5481c-46be-4a47-8df2-ada9ed29e564")
 		)
 		(fp_line
 			(start 1.39 0.84)
@@ -3487,7 +3487,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3c40d002-f74a-476f-b564-beb450fb9577")
+			(uuid "134c60d2-9327-47a8-84e1-411049f01481")
 		)
 		(fp_line
 			(start 1.43 -1.968)
@@ -3497,7 +3497,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3206b98f-9dc4-4691-a287-20902d570d41")
+			(uuid "3eac00bb-fcf4-44fe-b8ec-c3b071d17237")
 		)
 		(fp_line
 			(start 1.43 0.84)
@@ -3507,7 +3507,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "25e51b8e-3c9b-47e7-ac33-c82821862beb")
+			(uuid "427168e3-fee3-440f-9d6b-ce4b71fe1183")
 		)
 		(fp_line
 			(start 1.471 -1.954)
@@ -3517,7 +3517,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7c1f921e-c79f-4c68-9ad4-fa77b052f20a")
+			(uuid "af577558-6e55-4070-9370-f65ca6db4ef2")
 		)
 		(fp_line
 			(start 1.471 0.84)
@@ -3527,7 +3527,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8359f815-17fc-41d3-bc31-b89c4938a582")
+			(uuid "013411c9-5f85-4ce9-8af8-5944880242c5")
 		)
 		(fp_line
 			(start 1.511 -1.94)
@@ -3537,7 +3537,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "84d949a6-03c5-4c60-92c2-f709266f0a03")
+			(uuid "73b76748-6a72-4b5f-9268-6c9f5b3ea505")
 		)
 		(fp_line
 			(start 1.511 0.84)
@@ -3547,7 +3547,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "900e61b5-7eda-470b-b716-9396f7e167ed")
+			(uuid "63d69ef1-e30f-4aeb-906a-e5f2e89a4721")
 		)
 		(fp_line
 			(start 1.551 -1.924)
@@ -3557,7 +3557,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "89967462-dfbe-465b-9855-8042732928fe")
+			(uuid "c9f7d9a7-30d0-4889-afd4-0d70914bb424")
 		)
 		(fp_line
 			(start 1.551 0.84)
@@ -3567,7 +3567,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1d512c1d-a597-43c6-89d7-2a3996c5e504")
+			(uuid "c908d07f-e632-451c-9d76-52746c15f3ea")
 		)
 		(fp_line
 			(start 1.591 -1.907)
@@ -3577,7 +3577,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e0f486b1-0447-47e6-8dc6-272b48b5ddde")
+			(uuid "e381ee25-6dc8-4eb3-a505-569f78ad39ff")
 		)
 		(fp_line
 			(start 1.591 0.84)
@@ -3587,7 +3587,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b03b2980-5d27-4b54-964a-461916be2d40")
+			(uuid "a60db7de-479c-4aab-a35c-3f2e8db8b062")
 		)
 		(fp_line
 			(start 1.631 -1.889)
@@ -3597,7 +3597,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7d7872fa-e5e5-4f3a-8d98-a2ed51c4c2c2")
+			(uuid "2518664a-bb19-464e-9ea8-e8ffcff6ce57")
 		)
 		(fp_line
 			(start 1.631 0.84)
@@ -3607,7 +3607,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9d7b5c1c-e757-4d5e-ad87-303dc7477cc9")
+			(uuid "7ef620a9-0be7-4e47-b922-44c612aff891")
 		)
 		(fp_line
 			(start 1.671 -1.87)
@@ -3617,7 +3617,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "324f72c9-e584-40e1-9a7f-e4ca362a4b4e")
+			(uuid "96205486-e45e-4794-b983-7bfef5093cf2")
 		)
 		(fp_line
 			(start 1.671 0.84)
@@ -3627,7 +3627,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5eb33065-fb4e-4342-82db-7a97264ba1f6")
+			(uuid "91c932b9-53f6-45af-8043-ff2491803e99")
 		)
 		(fp_line
 			(start 1.711 -1.851)
@@ -3637,7 +3637,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c22d442a-3f79-4d41-bd62-c23f8d33eb1b")
+			(uuid "e63c9567-235c-4185-8910-27698a7ae1b0")
 		)
 		(fp_line
 			(start 1.711 0.84)
@@ -3647,7 +3647,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "905d7f23-e481-4519-8ee6-8867b069d9a5")
+			(uuid "6479e171-da30-410e-9845-e17a649c3341")
 		)
 		(fp_line
 			(start 1.751 -1.83)
@@ -3657,7 +3657,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd487a17-4426-4baa-8604-f2da8a47c910")
+			(uuid "18411dcb-4d89-4d14-8b29-a9f7803e5308")
 		)
 		(fp_line
 			(start 1.751 0.84)
@@ -3667,7 +3667,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "342352cd-90b7-46ad-889b-c0e7c07d68e0")
+			(uuid "92d7d228-0f41-4ac7-a6db-a6e6a5040435")
 		)
 		(fp_line
 			(start 1.791 -1.808)
@@ -3677,7 +3677,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c64301a9-c9e4-49ae-891d-e0f230249bfd")
+			(uuid "f96608fc-cdc7-4c3b-9d15-f147e1277ecc")
 		)
 		(fp_line
 			(start 1.791 0.84)
@@ -3687,7 +3687,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "88cc9123-084d-4f47-8d59-d2780a1e78c5")
+			(uuid "e2f4cf35-c94b-4224-b369-6627079798c4")
 		)
 		(fp_line
 			(start 1.831 -1.785)
@@ -3697,7 +3697,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "00737332-8aa2-4cda-b959-65a80bf4481c")
+			(uuid "b3d6dddd-ce9a-4578-968a-3925e2e0f7ab")
 		)
 		(fp_line
 			(start 1.831 0.84)
@@ -3707,7 +3707,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8e571298-7a13-4100-9554-a3a0dc736b31")
+			(uuid "08a4617b-0f19-440e-a192-e158c4f6ba23")
 		)
 		(fp_line
 			(start 1.871 -1.76)
@@ -3717,7 +3717,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "32484b66-436c-4aad-8b1b-192094cc48cc")
+			(uuid "d347b19f-1a23-4442-a4a5-3a064659a475")
 		)
 		(fp_line
 			(start 1.871 0.84)
@@ -3727,7 +3727,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "803c6124-0d52-4d18-a76f-c23f6558f184")
+			(uuid "e7045956-4045-4426-a80f-5e26acddea1f")
 		)
 		(fp_line
 			(start 1.911 -1.735)
@@ -3737,7 +3737,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "50610d2a-e922-4b81-bf6f-c6a0f911083d")
+			(uuid "81e9bec5-f6ad-49fb-9fb8-83de411da77c")
 		)
 		(fp_line
 			(start 1.911 0.84)
@@ -3747,7 +3747,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dcfb4c6a-dd7e-4ab4-aa00-bb18ff02a5b0")
+			(uuid "7a7bcc4b-b5a3-4fc1-911d-a172e7d167a5")
 		)
 		(fp_line
 			(start 1.951 -1.708)
@@ -3757,7 +3757,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb13f9c4-e4fb-43cd-a1bb-8fe23c31971a")
+			(uuid "83cb9de0-d8d7-4265-a436-050fe85328b6")
 		)
 		(fp_line
 			(start 1.951 0.84)
@@ -3767,7 +3767,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0866cecd-122e-4dd3-ac69-3137fcff18ed")
+			(uuid "8b07dc2f-12aa-4a23-b87a-f37884ba929a")
 		)
 		(fp_line
 			(start 1.991 -1.68)
@@ -3777,7 +3777,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ac27180-e080-4007-9854-bb0488e6924c")
+			(uuid "37a65e12-9d65-4378-b26c-904766139d2f")
 		)
 		(fp_line
 			(start 1.991 0.84)
@@ -3787,7 +3787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cf6c1993-a27f-42ad-9cb8-b9d7190ed6e4")
+			(uuid "d62d0b74-11e4-40db-af93-e92db422d915")
 		)
 		(fp_line
 			(start 2.031 -1.65)
@@ -3797,7 +3797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "51306663-9fd3-40a4-861f-4a684687023d")
+			(uuid "4b3ed749-3973-43b6-8ec6-7b5fae88ae2b")
 		)
 		(fp_line
 			(start 2.031 0.84)
@@ -3807,7 +3807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "24858c34-d6ed-4b1a-b85c-e8053efc1842")
+			(uuid "f868ae5a-3cee-40fd-8e53-c0ce01597c74")
 		)
 		(fp_line
 			(start 2.071 -1.619)
@@ -3817,7 +3817,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8db18c19-1094-49e3-921c-e46855736920")
+			(uuid "86c9cf7c-6191-4077-9c09-0e19826c7b17")
 		)
 		(fp_line
 			(start 2.071 0.84)
@@ -3827,7 +3827,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a4349a76-80e7-47d8-a1a1-5c8d4f6eeb5c")
+			(uuid "cdd450a0-a3d6-473c-b4e3-de9139f3c1be")
 		)
 		(fp_line
 			(start 2.111 -1.587)
@@ -3837,7 +3837,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dd2fe10d-9c8d-4be3-9c3b-e744708be99c")
+			(uuid "8bad852d-6fe9-4454-ba95-79c8e5ea451b")
 		)
 		(fp_line
 			(start 2.111 0.84)
@@ -3847,7 +3847,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "181ef721-0654-43a0-90c8-ebfece63dce7")
+			(uuid "00ff4c52-f449-4812-a267-4b204e3b7c2b")
 		)
 		(fp_line
 			(start 2.151 -1.552)
@@ -3857,7 +3857,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3a467e2e-df00-45a2-8dd6-fbce39675f3b")
+			(uuid "725d071f-78cb-41d5-a3d1-55a0d6d8edb0")
 		)
 		(fp_line
 			(start 2.151 0.84)
@@ -3867,7 +3867,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9231b18c-5560-4658-956e-36cf393a809f")
+			(uuid "78d31f9f-782e-45c2-b738-5c7f7a474d33")
 		)
 		(fp_line
 			(start 2.191 -1.516)
@@ -3877,7 +3877,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "286a6139-0314-426e-9071-6385e359f438")
+			(uuid "d179ba85-4715-42b0-9f62-bf5d771a8d69")
 		)
 		(fp_line
 			(start 2.191 0.84)
@@ -3887,7 +3887,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "900cd7ac-ebd3-4362-be0a-f31caa8211f2")
+			(uuid "44edbdd9-b6fe-43f5-afa6-95c66b3c2ba3")
 		)
 		(fp_line
 			(start 2.231 -1.478)
@@ -3897,7 +3897,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a27bacb7-1293-433e-a0fe-51ef056fd623")
+			(uuid "92bac30b-11f5-4a4f-8be4-66184cd718f6")
 		)
 		(fp_line
 			(start 2.231 0.84)
@@ -3907,7 +3907,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1384d412-3918-4c90-8a76-77658ddfad94")
+			(uuid "722de74a-ee45-404e-b121-0977548b1a0f")
 		)
 		(fp_line
 			(start 2.271 -1.438)
@@ -3917,7 +3917,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b301489d-42b0-439a-be3f-36d95f927768")
+			(uuid "c747902b-6805-41da-ba97-646f9707fc6e")
 		)
 		(fp_line
 			(start 2.271 0.84)
@@ -3927,7 +3927,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5285822a-9ab8-485b-b64f-37857e41310c")
+			(uuid "cf5665d3-f2ff-4d91-9e8e-3d33e36f1609")
 		)
 		(fp_line
 			(start 2.311 -1.396)
@@ -3937,7 +3937,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "980c3b5c-bd52-4bc6-a0b4-434fffb745d0")
+			(uuid "e1bf69c8-ac95-426d-8334-465684886035")
 		)
 		(fp_line
 			(start 2.311 0.84)
@@ -3947,7 +3947,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d409a758-43a7-41f7-b7ae-49490bf56ff1")
+			(uuid "d8054d61-7482-4e71-8a88-78515f0ebcd9")
 		)
 		(fp_line
 			(start 2.351 -1.351)
@@ -3957,7 +3957,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f76c2a4a-b8d8-4487-858b-ebf0c472208c")
+			(uuid "5f784ad1-baa4-4c2b-a21c-abaaf7c463bd")
 		)
 		(fp_line
 			(start 2.391 -1.304)
@@ -3967,7 +3967,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7ca98d25-9178-4be2-a642-2988663af6bf")
+			(uuid "0b68dc03-c56b-4a27-9eec-bd23b0b4541b")
 		)
 		(fp_line
 			(start 2.431 -1.254)
@@ -3977,7 +3977,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "daff2634-69a3-4d1c-817b-b4e0d8dbaa5c")
+			(uuid "b140564a-7e60-42be-aa6b-f645513ea2fa")
 		)
 		(fp_line
 			(start 2.471 -1.2)
@@ -3987,7 +3987,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d332d6e4-ac3d-41b4-85f3-6f4f527b669a")
+			(uuid "f0e50d49-44a3-4273-b342-64aaa3c5b157")
 		)
 		(fp_line
 			(start 2.511 -1.142)
@@ -3997,7 +3997,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1a01bfd4-c2c9-4686-b7be-362c4dc352e7")
+			(uuid "52be75ce-ea7e-46f0-9f2a-652dccb55878")
 		)
 		(fp_line
 			(start 2.551 -1.08)
@@ -4007,7 +4007,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f6d4b099-06fe-4bab-821a-74af5ecbc4d8")
+			(uuid "d58c9471-c3ce-4091-8c98-88ee1d963798")
 		)
 		(fp_line
 			(start 2.591 -1.013)
@@ -4017,7 +4017,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3c9ddce0-9626-439f-b754-e228bb4f466e")
+			(uuid "b46bd346-0e6e-4ab5-91c7-a7467d90e052")
 		)
 		(fp_line
 			(start 2.631 -0.94)
@@ -4027,7 +4027,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "539533d6-c291-4606-90b9-9885a9d99550")
+			(uuid "d1075027-faba-48fe-9dbd-3c2c2f52dc62")
 		)
 		(fp_line
 			(start 2.671 -0.859)
@@ -4037,7 +4037,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "99c81b91-e07c-4e47-a3fc-d9984e62c720")
+			(uuid "8617e5ff-9d8d-46be-8c44-c2d62e322c26")
 		)
 		(fp_line
 			(start 2.711 -0.768)
@@ -4047,7 +4047,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9e2de2d5-466b-4096-9077-c26b21ef0c00")
+			(uuid "ac752ada-1800-466c-846b-7eb44fa8e3b3")
 		)
 		(fp_line
 			(start 2.751 -0.664)
@@ -4057,7 +4057,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f6909ceb-6a3e-4e19-a680-322a9c243fcb")
+			(uuid "ed545c6e-5b8a-4d6d-99d0-0bb601ac3238")
 		)
 		(fp_line
 			(start 2.791 -0.537)
@@ -4067,7 +4067,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "861815ad-7b11-44f7-ae19-779cc984ea6c")
+			(uuid "299d6e8c-c2e9-4018-801a-f5ef6dac579f")
 		)
 		(fp_line
 			(start 2.831 -0.37)
@@ -4077,7 +4077,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c1c03508-9bd1-46c9-a8db-26409a4aa41a")
+			(uuid "719f48fb-da35-43f9-be0e-8eff82f7ad0f")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -4088,7 +4088,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "c456055e-0edf-4f11-a95e-1795e6efccce")
+			(uuid "2e1817f3-05bf-49d3-8081-3ec67ab4760d")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -4099,7 +4099,7 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "2d4a2dec-84e9-433e-98fe-e01d8ffd3cdb")
+			(uuid "7e7acbc6-e24e-40df-b40e-188a5a7b6216")
 		)
 		(fp_line
 			(start -0.952554 -0.8675)
@@ -4109,7 +4109,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8dd2ab70-7cb4-4b3e-bece-ddbc0b6028be")
+			(uuid "cb9433df-ae0c-4c30-acca-315e35413bbb")
 		)
 		(fp_line
 			(start -0.752554 -1.0675)
@@ -4119,7 +4119,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ce777da8-0ff9-4beb-85d0-ada7f630f713")
+			(uuid "2dfc9e7e-3aa1-4650-ac46-2ea82d94cafc")
 		)
 		(fp_circle
 			(center 0.75 0)
@@ -4130,12 +4130,12 @@
 			)
 			(fill none)
 			(layer "F.Fab")
-			(uuid "194a4634-c2d0-4a83-85ab-7c2cf9348527")
+			(uuid "b21f640a-8d17-4202-a453-c0214db6e8a3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.75 0 0)
 			(layer "F.Fab")
-			(uuid "1199f451-5964-4c7a-aeba-d4720c1e257d")
+			(uuid "2cf7f57f-432c-48d3-b340-3995e98b0784")
 			(effects
 				(font
 					(size 0.8 0.8)
@@ -4151,7 +4151,7 @@
 			(remove_unused_layers no)
 			(net 1 "+5VA")
 			(pintype "passive")
-			(uuid "23fddaff-9256-4393-9a2f-7e4dba03cae8")
+			(uuid "6102f0a6-db84-4b4f-adb4-e267f57290ea")
 		)
 		(pad "2" thru_hole circle
 			(at 1.5 0)
@@ -4161,7 +4161,7 @@
 			(remove_unused_layers no)
 			(net 2 "GND")
 			(pintype "passive")
-			(uuid "c9786dc7-4f6c-48e9-a96b-1c05952821de")
+			(uuid "3e6e589b-4f7e-46ba-8c65-2275ea3d2b53")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Radial_D4.0mm_P1.50mm.wrl"
 			(offset
@@ -4176,163 +4176,160 @@
 		)
 	)
 	(gr_rect
-		(start 72.39 40.64)
-		(end 158.75 74.93)
+		(start 72 40)
+		(end 157 74)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "6f055e70-7493-4c74-b6d2-afa3a86d22f3")
+		(uuid "663e3ff0-c44d-433b-bc17-25e9fc73b1b2")
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 100 53 0)
+		(layer "F.SilkS")
+		(uuid "ae3de077-f4f6-4cd5-aea0-ecfe0c98812e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
-		(start 134.39 51.03)
-		(end 134.39 59.69)
+		(start 131.82 49.69)
+		(end 131.82 58.35)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "2e363491-26a2-4aa8-acc6-02d2d0a773c1")
 	)
 	(segment
-		(start 123.290199 65.895)
-		(end 128.185 65.895)
+		(start 120.720199 64.555)
+		(end 125.615 64.555)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "414dbc8e-ea37-4917-9737-7028630163b4")
 	)
 	(segment
-		(start 134.62 50.8)
-		(end 134.39 51.03)
+		(start 132.05 49.46)
+		(end 131.82 49.69)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "8916f90b-fd26-4bc8-b34f-0b3ccc33021f")
 	)
 	(segment
-		(start 152.4 63.34)
-		(end 130.74 63.34)
+		(start 149.83 62)
+		(end 128.17 62)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "90fed668-6d4e-41cc-ba4e-e27782e744b9")
 	)
 	(segment
-		(start 130.695 63.385)
-		(end 134.39 59.69)
+		(start 128.125 62.045)
+		(end 131.82 58.35)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "9b53a898-3b9d-43d5-ac35-ca9f9b6bcbf6")
 	)
 	(segment
-		(start 130.74 63.34)
-		(end 130.695 63.385)
+		(start 128.17 62)
+		(end 128.125 62.045)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "af04b71e-4f7c-4fb4-bcb9-6492d0fdc44c")
 	)
 	(segment
-		(start 128.185 65.895)
-		(end 130.695 63.385)
+		(start 125.615 64.555)
+		(end 128.125 62.045)
 		(width 1)
 		(layer "B.Cu")
 		(net 1)
 		(uuid "f2356276-cf47-4f73-8c4c-7784c68ac61f")
 	)
 	(segment
-		(start 139.7 58.65)
-		(end 140.74 59.69)
+		(start 137.13 57.31)
+		(end 138.17 58.35)
 		(width 1)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "0ed82e75-6baf-46f1-bd16-cda288643bed")
 	)
 	(segment
-		(start 139.7 50.8)
-		(end 139.7 55.88)
+		(start 137.13 49.46)
+		(end 137.13 54.54)
 		(width 1)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "50964e16-f0f3-4aad-9f84-398f6d81c473")
 	)
 	(segment
-		(start 139.7 55.88)
-		(end 139.7 58.65)
+		(start 137.13 54.54)
+		(end 137.13 57.31)
 		(width 1)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "7cfc647f-1c7f-4763-aa3d-84d86e924ce0")
 	)
 	(segment
-		(start 149.94 55.88)
-		(end 139.7 55.88)
+		(start 147.37 54.54)
+		(end 137.13 54.54)
 		(width 1)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "a9567ffc-ce50-4193-aa30-be4ba3950e3a")
 	)
 	(segment
-		(start 152.4 58.34)
-		(end 149.94 55.88)
+		(start 149.83 57)
+		(end 147.37 54.54)
 		(width 1)
 		(layer "B.Cu")
 		(net 3)
 		(uuid "e323ff2e-12a9-4605-acda-52aa7d77f9a2")
 	)
 	(segment
-		(start 79.945 60.895)
-		(end 78.74 59.69)
+		(start 78.715001 59.555)
+		(end 78.695 59.534999)
 		(width 1)
 		(layer "F.Cu")
 		(net 4)
-		(uuid "14f5f4a6-657b-4deb-9dc5-126e98ca45e2")
+		(uuid "776f0657-66b4-4a68-9d48-105a47604c78")
 	)
 	(segment
-		(start 94.210199 60.895)
-		(end 79.945 60.895)
+		(start 91.640199 59.555)
+		(end 78.715001 59.555)
 		(width 1)
 		(layer "F.Cu")
 		(net 4)
-		(uuid "8256bc94-573c-49fe-b2c8-18531566eeac")
+		(uuid "923fe2e2-245e-4b6f-9f4d-42c645709b6a")
 	)
 	(segment
-		(start 78.74 59.69)
-		(end 78.74 55.88)
-		(width 1)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "af79ccdc-7851-4ade-8d80-5e9839f7f8e8")
-	)
-	(segment
-		(start 85.105 55.895)
-		(end 94.210199 55.895)
+		(start 78.695 54.455)
+		(end 91.540199 54.455)
 		(width 1)
 		(layer "F.Cu")
 		(net 5)
-		(uuid "36c82977-0174-4236-bfa2-aaaad8a5c7e9")
+		(uuid "cdb56c06-42d7-4e02-8020-ab5cce4e4971")
 	)
 	(segment
-		(start 85.09 55.88)
-		(end 85.105 55.895)
+		(start 91.540199 54.455)
+		(end 91.640199 54.555)
 		(width 1)
 		(layer "F.Cu")
 		(net 5)
-		(uuid "394356f1-c029-4213-81a0-36d150d7349a")
+		(uuid "cfbababd-b5bf-4d06-b011-ba5ab9024c47")
 	)
 	(segment
-		(start 83.82 55.88)
-		(end 85.09 55.88)
-		(width 1)
-		(layer "F.Cu")
-		(net 5)
-		(uuid "a56748d8-c96f-4aaf-b171-c245fe2d8f4b")
-	)
-	(segment
-		(start 94.190199 55.875)
-		(end 94.210199 55.895)
+		(start 91.620199 54.535)
+		(end 91.640199 54.555)
 		(width 1)
 		(layer "B.Cu")
 		(net 5)
@@ -4355,193 +4352,194 @@
 		)
 		(polygon
 			(pts
-				(xy 120.65 43.18) (xy 147.32 43.18) (xy 147.32 49.53) (xy 157.48 49.53) (xy 157.48 66.04) (xy 147.32 66.04)
-				(xy 147.32 72.39) (xy 120.65 72.39)
+				(xy 118.08 41.84) (xy 144.75 41.84) (xy 144.75 48.19) (xy 154.91 48.19) (xy 154.91 64.7) (xy 144.75 64.7)
+				(xy 144.75 71.05) (xy 118.08 71.05)
 			)
 		)
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 147.263039 43.199685) (xy 147.308794 43.252489) (xy 147.32 43.304) (xy 147.32 49.53) (xy 157.356 49.53)
-				(xy 157.423039 49.549685) (xy 157.468794 49.602489) (xy 157.48 49.654) (xy 157.48 65.916) (xy 157.460315 65.983039)
-				(xy 157.407511 66.028794) (xy 157.356 66.04) (xy 147.32 66.04) (xy 147.32 72.266) (xy 147.300315 72.333039)
-				(xy 147.247511 72.378794) (xy 147.196 72.39) (xy 120.774 72.39) (xy 120.706961 72.370315) (xy 120.661206 72.317511)
-				(xy 120.65 72.266) (xy 120.65 65.638713) (xy 121.939699 65.638713) (xy 121.939699 66.151286) (xy 121.972952 66.361239)
-				(xy 122.038643 66.563414) (xy 122.13515 66.75282) (xy 122.260089 66.924786) (xy 122.410412 67.075109)
-				(xy 122.582378 67.200048) (xy 122.58238 67.200049) (xy 122.582383 67.200051) (xy 122.771787 67.296557)
-				(xy 122.973956 67.362246) (xy 123.183912 67.3955) (xy 123.183913 67.3955) (xy 123.396485 67.3955)
-				(xy 123.396486 67.3955) (xy 123.606442 67.362246) (xy 123.808611 67.296557) (xy 123.998015 67.200051)
-				(xy 124.019988 67.184086) (xy 124.169985 67.075109) (xy 124.169987 67.075106) (xy 124.169991 67.075104)
-				(xy 124.320303 66.924792) (xy 124.320305 66.924788) (xy 124.320308 66.924786) (xy 124.445247 66.75282)
-				(xy 124.445246 66.75282) (xy 124.44525 66.752816) (xy 124.541756 66.563412) (xy 124.607445 66.361243)
-				(xy 124.640699 66.151287) (xy 124.640699 65.638713) (xy 124.607445 65.428757) (xy 124.541756 65.226588)
-				(xy 124.44525 65.037184) (xy 124.445248 65.037181) (xy 124.445247 65.037179) (xy 124.320308 64.865213)
-				(xy 124.169985 64.71489) (xy 123.998019 64.589951) (xy 123.808613 64.493444) (xy 123.808612 64.493443)
-				(xy 123.808611 64.493443) (xy 123.606442 64.427754) (xy 123.60644 64.427753) (xy 123.606439 64.427753)
-				(xy 123.445156 64.402208) (xy 123.396486 64.3945) (xy 123.183912 64.3945) (xy 123.135241 64.402208)
-				(xy 122.973959 64.427753) (xy 122.771784 64.493444) (xy 122.582378 64.589951) (xy 122.410412 64.71489)
-				(xy 122.260089 64.865213) (xy 122.13515 65.037179) (xy 122.038643 65.226585) (xy 121.972952 65.42876)
-				(xy 121.939699 65.638713) (xy 120.65 65.638713) (xy 120.65 62.189984) (xy 150.5495 62.189984) (xy 150.5495 64.490015)
-				(xy 150.56 64.592795) (xy 150.560001 64.592796) (xy 150.615186 64.759335) (xy 150.615187 64.759337)
-				(xy 150.707286 64.908651) (xy 150.707289 64.908655) (xy 150.831344 65.03271) (xy 150.831348 65.032713)
-				(xy 150.980662 65.124812) (xy 150.980664 65.124813) (xy 150.980666 65.124814) (xy 151.147203 65.179999)
-				(xy 151.249992 65.1905) (xy 151.249997 65.1905) (xy 153.550003 65.1905) (xy 153.550008 65.1905)
-				(xy 153.652797 65.179999) (xy 153.819334 65.124814) (xy 153.968655 65.032711) (xy 154.092711 64.908655)
-				(xy 154.184814 64.759334) (xy 154.239999 64.592797) (xy 154.2505 64.490008) (xy 154.2505 62.189992)
-				(xy 154.239999 62.087203) (xy 154.184814 61.920666) (xy 154.092711 61.771345) (xy 153.968655 61.647289)
-				(xy 153.968651 61.647286) (xy 153.819337 61.555187) (xy 153.819335 61.555186) (xy 153.736065 61.527593)
-				(xy 153.652797 61.500001) (xy 153.652795 61.5) (xy 153.550015 61.4895) (xy 153.550008 61.4895) (xy 151.249992 61.4895)
-				(xy 151.249984 61.4895) (xy 151.147204 61.5) (xy 151.147203 61.500001) (xy 150.980664 61.555186)
-				(xy 150.980662 61.555187) (xy 150.831348 61.647286) (xy 150.831344 61.647289) (xy 150.707289 61.771344)
-				(xy 150.707286 61.771348) (xy 150.615187 61.920662) (xy 150.615186 61.920664) (xy 150.560001 62.087203)
-				(xy 150.56 62.087204) (xy 150.5495 62.189984) (xy 120.65 62.189984) (xy 120.65 59.042135) (xy 133.2895 59.042135)
-				(xy 133.2895 60.33787) (xy 133.289501 60.337876) (xy 133.295908 60.397483) (xy 133.346202 60.532328)
-				(xy 133.346206 60.532335) (xy 133.432452 60.647544) (xy 133.432455 60.647547) (xy 133.547664 60.733793)
-				(xy 133.547671 60.733797) (xy 133.682517 60.784091) (xy 133.682516 60.784091) (xy 133.689444 60.784835)
-				(xy 133.742127 60.7905) (xy 135.037872 60.790499) (xy 135.097483 60.784091) (xy 135.232329 60.733797)
-				(xy 135.232329 60.733796) (xy 135.232331 60.733796) (xy 135.281993 60.696618) (xy 135.347454 60.672201)
-				(xy 135.401097 60.680258) (xy 135.587678 60.752539) (xy 135.788072 60.79) (xy 135.991928 60.79)
-				(xy 136.192322 60.752539) (xy 136.382412 60.678899) (xy 136.382416 60.678897) (xy 136.470686 60.624241)
-				(xy 136.470686 60.62424) (xy 135.8313 59.984854) (xy 135.850504 59.99) (xy 135.929496 59.99) (xy 136.005796 59.969556)
-				(xy 136.074205 59.93006) (xy 136.13006 59.874205) (xy 136.169556 59.805796) (xy 136.19 59.729496)
-				(xy 136.19 59.69) (xy 136.243553 59.69) (xy 136.827465 60.273912) (xy 136.829247 60.271553) (xy 136.829248 60.271551)
-				(xy 136.920113 60.089069) (xy 136.920116 60.089063) (xy 136.975902 59.892992) (xy 136.975903 59.892989)
-				(xy 136.994713 59.69) (xy 136.994713 59.689999) (xy 136.975903 59.48701) (xy 136.975902 59.487007)
-				(xy 136.920116 59.290936) (xy 136.920113 59.29093) (xy 136.829249 59.108449) (xy 136.829247 59.108447)
-				(xy 136.827465 59.106087) (xy 136.243553 59.69) (xy 136.19 59.69) (xy 136.19 59.650504) (xy 136.169556 59.574204)
-				(xy 136.13006 59.505795) (xy 136.074205 59.44994) (xy 136.005796 59.410444) (xy 135.929496 59.39)
-				(xy 135.850504 59.39) (xy 135.8313 59.395145) (xy 136.18431 59.042135) (xy 139.6395 59.042135) (xy 139.6395 60.33787)
-				(xy 139.639501 60.337876) (xy 139.645908 60.397483) (xy 139.696202 60.532328) (xy 139.696206 60.532335)
-				(xy 139.782452 60.647544) (xy 139.782455 60.647547) (xy 139.897664 60.733793) (xy 139.897671 60.733797)
-				(xy 140.032517 60.784091) (xy 140.032516 60.784091) (xy 140.039444 60.784835) (xy 140.092127 60.7905)
-				(xy 141.387872 60.790499) (xy 141.447483 60.784091) (xy 141.582329 60.733797) (xy 141.582329 60.733796)
-				(xy 141.582331 60.733796) (xy 141.631993 60.696618) (xy 141.697454 60.672201) (xy 141.751097 60.680258)
-				(xy 141.937678 60.752539) (xy 142.138072 60.79) (xy 142.341928 60.79) (xy 142.542322 60.752539)
-				(xy 142.732412 60.678899) (xy 142.732416 60.678897) (xy 142.820686 60.624241) (xy 142.820686 60.62424)
-				(xy 142.1813 59.984854) (xy 142.200504 59.99) (xy 142.279496 59.99) (xy 142.355796 59.969556) (xy 142.424205 59.93006)
-				(xy 142.48006 59.874205) (xy 142.519556 59.805796) (xy 142.54 59.729496) (xy 142.54 59.69) (xy 142.593552 59.69)
-				(xy 143.177465 60.273912) (xy 143.179247 60.271553) (xy 143.179248 60.271551) (xy 143.270113 60.089069)
-				(xy 143.270116 60.089063) (xy 143.325902 59.892992) (xy 143.325903 59.892989) (xy 143.344713 59.69)
-				(xy 143.344713 59.689999) (xy 143.325903 59.48701) (xy 143.325902 59.487007) (xy 143.270116 59.290936)
-				(xy 143.270113 59.29093) (xy 143.179249 59.108449) (xy 143.179247 59.108447) (xy 143.177465 59.106087)
-				(xy 142.593552 59.69) (xy 142.54 59.69) (xy 142.54 59.650504) (xy 142.519556 59.574204) (xy 142.48006 59.505795)
-				(xy 142.424205 59.44994) (xy 142.355796 59.410444) (xy 142.279496 59.39) (xy 142.200504 59.39) (xy 142.1813 59.395145)
-				(xy 142.820687 58.755758) (xy 142.732413 58.701101) (xy 142.732411 58.7011) (xy 142.542321 58.62746)
-				(xy 142.341928 58.59) (xy 142.138072 58.59) (xy 141.937677 58.62746) (xy 141.751098 58.699741) (xy 141.681474 58.705603)
-				(xy 141.631993 58.683381) (xy 141.582331 58.646204) (xy 141.582329 58.646203) (xy 141.582328 58.646202)
-				(xy 141.447482 58.595908) (xy 141.447483 58.595908) (xy 141.387883 58.589501) (xy 141.387881 58.5895)
-				(xy 141.387873 58.5895) (xy 141.387864 58.5895) (xy 140.092129 58.5895) (xy 140.092123 58.589501)
-				(xy 140.032516 58.595908) (xy 139.897671 58.646202) (xy 139.897664 58.646206) (xy 139.782455 58.732452)
-				(xy 139.782452 58.732455) (xy 139.696206 58.847664) (xy 139.696202 58.847671) (xy 139.645908 58.982517)
-				(xy 139.639501 59.042116) (xy 139.6395 59.042135) (xy 136.18431 59.042135) (xy 136.470687 58.755758)
-				(xy 136.382413 58.701101) (xy 136.382411 58.7011) (xy 136.192321 58.62746) (xy 135.991928 58.59)
-				(xy 135.788072 58.59) (xy 135.587677 58.62746) (xy 135.401098 58.699741) (xy 135.331474 58.705603)
-				(xy 135.281993 58.683381) (xy 135.232331 58.646204) (xy 135.232329 58.646203) (xy 135.232328 58.646202)
-				(xy 135.097482 58.595908) (xy 135.097483 58.595908) (xy 135.037883 58.589501) (xy 135.037881 58.5895)
-				(xy 135.037873 58.5895) (xy 135.037864 58.5895) (xy 133.742129 58.5895) (xy 133.742123 58.589501)
-				(xy 133.682516 58.595908) (xy 133.547671 58.646202) (xy 133.547664 58.646206) (xy 133.432455 58.732452)
-				(xy 133.432452 58.732455) (xy 133.346206 58.847664) (xy 133.346202 58.847671) (xy 133.295908 58.982517)
-				(xy 133.289501 59.042116) (xy 133.2895 59.042135) (xy 120.65 59.042135) (xy 120.65 58.339998) (xy 150.544773 58.339998)
-				(xy 150.544773 58.340001) (xy 150.563657 58.604027) (xy 150.563658 58.604034) (xy 150.619921 58.862673)
-				(xy 150.712426 59.11069) (xy 150.712428 59.110694) (xy 150.83928 59.343005) (xy 150.839285 59.343013)
-				(xy 150.997906 59.554907) (xy 150.997922 59.554925) (xy 151.185074 59.742077) (xy 151.185092 59.742093)
-				(xy 151.396986 59.900714) (xy 151.396994 59.900719) (xy 151.629305 60.027571) (xy 151.629309 60.027573)
-				(xy 151.629311 60.027574) (xy 151.877322 60.120077) (xy 151.877325 60.120077) (xy 151.877326 60.120078)
-				(xy 152.072552 60.162546) (xy 152.135974 60.176343) (xy 152.37966 60.193772) (xy 152.399999 60.195227)
-				(xy 152.4 60.195227) (xy 152.400001 60.195227) (xy 152.418885 60.193876) (xy 152.664026 60.176343)
-				(xy 152.922678 60.120077) (xy 153.170689 60.027574) (xy 153.403011 59.900716) (xy 153.614915 59.742087)
-				(xy 153.802087 59.554915) (xy 153.960716 59.343011) (xy 154.087574 59.110689) (xy 154.180077 58.862678)
-				(xy 154.236343 58.604026) (xy 154.255227 58.34) (xy 154.236343 58.075974) (xy 154.180077 57.817322)
-				(xy 154.087574 57.569311) (xy 153.960716 57.336989) (xy 153.960714 57.336986) (xy 153.802093 57.125092)
-				(xy 153.802077 57.125074) (xy 153.614925 56.937922) (xy 153.614907 56.937906) (xy 153.403013 56.779285)
-				(xy 153.403005 56.77928) (xy 153.170694 56.652428) (xy 153.17069 56.652426) (xy 152.922673 56.559921)
-				(xy 152.664034 56.503658) (xy 152.664027 56.503657) (xy 152.400001 56.484773) (xy 152.399999 56.484773)
-				(xy 152.135972 56.503657) (xy 152.135965 56.503658) (xy 151.877326 56.559921) (xy 151.629309 56.652426)
-				(xy 151.629305 56.652428) (xy 151.396994 56.77928) (xy 151.396986 56.779285) (xy 151.185092 56.937906)
-				(xy 151.185074 56.937922) (xy 150.997922 57.125074) (xy 150.997906 57.125092) (xy 150.839285 57.336986)
-				(xy 150.83928 57.336994) (xy 150.712428 57.569305) (xy 150.712426 57.569309) (xy 150.619921 57.817326)
-				(xy 150.563658 58.075965) (xy 150.563657 58.075972) (xy 150.544773 58.339998) (xy 120.65 58.339998)
-				(xy 120.65 53.339998) (xy 150.545274 53.339998) (xy 150.545274 53.340001) (xy 150.564152 53.60396)
-				(xy 150.6204 53.862528) (xy 150.712884 54.110487) (xy 150.839701 54.342735) (xy 150.839702 54.342736)
-				(xy 150.92704 54.459406) (xy 151.645884 53.740561) (xy 151.64674 53.742626) (xy 151.739762 53.881844)
-				(xy 151.858156 54.000238) (xy 151.997374 54.09326) (xy 151.999437 54.094114) (xy 151.280592 54.812958)
-				(xy 151.397263 54.900298) (xy 151.629513 55.027115) (xy 151.629512 55.027115) (xy 151.877471 55.119599)
-				(xy 152.136039 55.175847) (xy 152.399999 55.194726) (xy 152.400001 55.194726) (xy 152.66396 55.175847)
-				(xy 152.922528 55.119599) (xy 153.170487 55.027115) (xy 153.402744 54.900293) (xy 153.519406 54.812959)
-				(xy 153.519406 54.812958) (xy 152.800562 54.094114) (xy 152.802626 54.09326) (xy 152.941844 54.000238)
-				(xy 153.060238 53.881844) (xy 153.15326 53.742626) (xy 153.154114 53.740562) (xy 153.872958 54.459406)
-				(xy 153.872959 54.459406) (xy 153.960293 54.342744) (xy 154.087115 54.110487) (xy 154.179599 53.862528)
-				(xy 154.235847 53.60396) (xy 154.254726 53.340001) (xy 154.254726 53.339998) (xy 154.235847 53.076039)
-				(xy 154.179599 52.817471) (xy 154.087115 52.569512) (xy 153.960298 52.337264) (xy 153.960298 52.337263)
-				(xy 153.872958 52.220592) (xy 153.154114 52.939436) (xy 153.15326 52.937374) (xy 153.060238 52.798156)
-				(xy 152.941844 52.679762) (xy 152.802626 52.58674) (xy 152.80056 52.585884) (xy 153.519406 51.86704)
-				(xy 153.402736 51.779702) (xy 153.402735 51.779701) (xy 153.170486 51.652884) (xy 153.170487 51.652884)
-				(xy 152.922528 51.5604) (xy 152.66396 51.504152) (xy 152.400001 51.485274) (xy 152.399999 51.485274)
-				(xy 152.136039 51.504152) (xy 151.877471 51.5604) (xy 151.629512 51.652884) (xy 151.397264 51.779701)
-				(xy 151.397256 51.779706) (xy 151.280593 51.867039) (xy 151.280592 51.86704) (xy 151.999437 52.585885)
-				(xy 151.997374 52.58674) (xy 151.858156 52.679762) (xy 151.739762 52.798156) (xy 151.64674 52.937374)
-				(xy 151.645885 52.939437) (xy 150.92704 52.220592) (xy 150.927039 52.220593) (xy 150.839706 52.337256)
-				(xy 150.839701 52.337264) (xy 150.712884 52.569512) (xy 150.6204 52.817471) (xy 150.564152 53.076039)
-				(xy 150.545274 53.339998) (xy 120.65 53.339998) (xy 120.65 50.638753) (xy 121.940199 50.638753)
-				(xy 121.940199 50.645) (xy 122.857187 50.645) (xy 122.824274 50.702007) (xy 122.790199 50.829174)
-				(xy 122.790199 50.960826) (xy 122.824274 51.087993) (xy 122.857187 51.145) (xy 121.940199 51.145)
-				(xy 121.940199 51.151246) (xy 121.973441 51.361127) (xy 121.973441 51.36113) (xy 122.039103 51.563217)
-				(xy 122.135578 51.752557) (xy 122.260471 51.924459) (xy 122.260475 51.924464) (xy 122.410734 52.074723)
-				(xy 122.410739 52.074727) (xy 122.582641 52.19962) (xy 122.771981 52.296095) (xy 122.97407 52.361757)
-				(xy 123.040199 52.372231) (xy 123.040199 51.328012) (xy 123.097206 51.360925) (xy 123.224373 51.395)
-				(xy 123.356025 51.395) (xy 123.483192 51.360925) (xy 123.540199 51.328012) (xy 123.540199 52.37223)
-				(xy 123.606325 52.361757) (xy 123.606328 52.361757) (xy 123.808416 52.296095) (xy 123.997756 52.19962)
-				(xy 124.169658 52.074727) (xy 124.169663 52.074723) (xy 124.319922 51.924464) (xy 124.319926 51.924459)
-				(xy 124.444819 51.752557) (xy 124.541294 51.563217) (xy 124.606956 51.36113) (xy 124.606956 51.361127)
-				(xy 124.640199 51.151246) (xy 124.640199 51.145) (xy 123.723211 51.145) (xy 123.756124 51.087993)
-				(xy 123.790199 50.960826) (xy 123.790199 50.829174) (xy 123.756124 50.702007) (xy 123.723211 50.645)
-				(xy 124.640199 50.645) (xy 124.640199 50.638753) (xy 124.606956 50.428872) (xy 124.606956 50.428869)
-				(xy 124.541294 50.226782) (xy 124.444819 50.037442) (xy 124.319926 49.86554) (xy 124.319922 49.865535)
-				(xy 124.206522 49.752135) (xy 133.167 49.752135) (xy 133.167 51.84787) (xy 133.167001 51.847876)
-				(xy 133.173408 51.907483) (xy 133.223702 52.042328) (xy 133.223706 52.042335) (xy 133.309952 52.157544)
-				(xy 133.309955 52.157547) (xy 133.425164 52.243793) (xy 133.425171 52.243797) (xy 133.560017 52.294091)
-				(xy 133.560016 52.294091) (xy 133.566944 52.294835) (xy 133.619627 52.3005) (xy 135.620372 52.300499)
-				(xy 135.679983 52.294091) (xy 135.814831 52.243796) (xy 135.930046 52.157546) (xy 136.016296 52.042331)
-				(xy 136.026872 52.013974) (xy 136.06874 51.958041) (xy 136.134204 51.933622) (xy 136.202477 51.948472)
-				(xy 136.21594 51.956988) (xy 136.398723 52.089788) (xy 136.602429 52.193582) (xy 136.819871 52.264234)
-				(xy 136.91 52.278509) (xy 136.91 51.290747) (xy 136.947708 51.312518) (xy 137.087591 51.35) (xy 137.232409 51.35)
-				(xy 137.372292 51.312518) (xy 137.41 51.290747) (xy 137.41 52.278508) (xy 137.500128 52.264234)
-				(xy 137.71757 52.193582) (xy 137.921276 52.089788) (xy 138.106242 51.955402) (xy 138.267905 51.793739)
-				(xy 138.329371 51.709137) (xy 138.384701 51.66647) (xy 138.454314 51.660491) (xy 138.516109 51.693096)
-				(xy 138.530007 51.709134) (xy 138.591714 51.794066) (xy 138.753434 51.955786) (xy 138.938462 52.090217)
-				(xy 139.070599 52.157544) (xy 139.142244 52.194049) (xy 139.359751 52.264721) (xy 139.359752 52.264721)
-				(xy 139.359755 52.264722) (xy 139.585646 52.3005) (xy 139.585647 52.3005) (xy 139.814353 52.3005)
-				(xy 139.814354 52.3005) (xy 140.040245 52.264722) (xy 140.040248 52.264721) (xy 140.040249 52.264721)
-				(xy 140.257755 52.194049) (xy 140.257755 52.194048) (xy 140.257758 52.194048) (xy 140.461538 52.090217)
-				(xy 140.646566 51.955786) (xy 140.808286 51.794066) (xy 140.942717 51.609038) (xy 141.046548 51.405258)
-				(xy 141.117222 51.187745) (xy 141.153 50.961854) (xy 141.153 50.638146) (xy 141.117222 50.412255)
-				(xy 141.117221 50.412251) (xy 141.117221 50.41225) (xy 141.046549 50.194744) (xy 141.046548 50.194742)
-				(xy 140.942717 49.990962) (xy 140.808286 49.805934) (xy 140.646566 49.644214) (xy 140.461538 49.509783)
-				(xy 140.430372 49.493903) (xy 140.257755 49.40595) (xy 140.040248 49.335278) (xy 139.854812 49.305908)
-				(xy 139.814354 49.2995) (xy 139.585646 49.2995) (xy 139.545188 49.305908) (xy 139.359753 49.335278)
-				(xy 139.35975 49.335278) (xy 139.142244 49.40595) (xy 138.938461 49.509783) (xy 138.87255 49.557671)
-				(xy 138.753434 49.644214) (xy 138.753432 49.644216) (xy 138.753431 49.644216) (xy 138.591716 49.805931)
-				(xy 138.591709 49.80594) (xy 138.530007 49.890864) (xy 138.474677 49.93353) (xy 138.405063 49.939508)
-				(xy 138.343269 49.906901) (xy 138.329372 49.890863) (xy 138.267907 49.806263) (xy 138.267902 49.806257)
-				(xy 138.106242 49.644597) (xy 137.921276 49.510211) (xy 137.717568 49.406417) (xy 137.500124 49.335765)
-				(xy 137.41 49.32149) (xy 137.41 50.309252) (xy 137.372292 50.287482) (xy 137.232409 50.25) (xy 137.087591 50.25)
-				(xy 136.947708 50.287482) (xy 136.91 50.309252) (xy 136.91 49.32149) (xy 136.909999 49.32149) (xy 136.819875 49.335765)
-				(xy 136.602431 49.406417) (xy 136.398719 49.510213) (xy 136.215939 49.64301) (xy 136.150132 49.66649)
-				(xy 136.082079 49.650664) (xy 136.033384 49.600558) (xy 136.026875 49.586033) (xy 136.016296 49.557669)
-				(xy 136.016295 49.557667) (xy 136.016293 49.557664) (xy 135.930047 49.442455) (xy 135.930044 49.442452)
-				(xy 135.814835 49.356206) (xy 135.814828 49.356202) (xy 135.679982 49.305908) (xy 135.679983 49.305908)
-				(xy 135.620383 49.299501) (xy 135.620381 49.2995) (xy 135.620373 49.2995) (xy 135.620364 49.2995)
-				(xy 133.619629 49.2995) (xy 133.619623 49.299501) (xy 133.560016 49.305908) (xy 133.425171 49.356202)
-				(xy 133.425164 49.356206) (xy 133.309955 49.442452) (xy 133.309952 49.442455) (xy 133.223706 49.557664)
-				(xy 133.223702 49.557671) (xy 133.173408 49.692517) (xy 133.167001 49.752116) (xy 133.167 49.752135)
-				(xy 124.206522 49.752135) (xy 124.169663 49.715276) (xy 124.169658 49.715272) (xy 123.997756 49.590379)
-				(xy 123.808414 49.493903) (xy 123.606323 49.428241) (xy 123.540199 49.417768) (xy 123.540199 50.461988)
-				(xy 123.483192 50.429075) (xy 123.356025 50.395) (xy 123.224373 50.395) (xy 123.097206 50.429075)
-				(xy 123.040199 50.461988) (xy 123.040199 49.417768) (xy 123.040198 49.417768) (xy 122.974074 49.428241)
-				(xy 122.771983 49.493903) (xy 122.582641 49.590379) (xy 122.410739 49.715272) (xy 122.410734 49.715276)
-				(xy 122.260475 49.865535) (xy 122.260471 49.86554) (xy 122.135578 50.037442) (xy 122.039103 50.226782)
-				(xy 121.973441 50.428869) (xy 121.973441 50.428872) (xy 121.940199 50.638753) (xy 120.65 50.638753)
-				(xy 120.65 43.304) (xy 120.669685 43.236961) (xy 120.722489 43.191206) (xy 120.774 43.18) (xy 147.196 43.18)
+				(xy 144.693039 41.859685) (xy 144.738794 41.912489) (xy 144.75 41.964) (xy 144.75 48.19) (xy 154.786 48.19)
+				(xy 154.853039 48.209685) (xy 154.898794 48.262489) (xy 154.91 48.314) (xy 154.91 64.576) (xy 154.890315 64.643039)
+				(xy 154.837511 64.688794) (xy 154.786 64.7) (xy 144.75 64.7) (xy 144.75 70.926) (xy 144.730315 70.993039)
+				(xy 144.677511 71.038794) (xy 144.626 71.05) (xy 118.204 71.05) (xy 118.136961 71.030315) (xy 118.091206 70.977511)
+				(xy 118.08 70.926) (xy 118.08 64.298713) (xy 119.369699 64.298713) (xy 119.369699 64.811286) (xy 119.402952 65.021239)
+				(xy 119.468643 65.223414) (xy 119.56515 65.41282) (xy 119.690089 65.584786) (xy 119.840412 65.735109)
+				(xy 120.012378 65.860048) (xy 120.01238 65.860049) (xy 120.012383 65.860051) (xy 120.201787 65.956557)
+				(xy 120.403956 66.022246) (xy 120.613912 66.0555) (xy 120.613913 66.0555) (xy 120.826485 66.0555)
+				(xy 120.826486 66.0555) (xy 121.036442 66.022246) (xy 121.238611 65.956557) (xy 121.428015 65.860051)
+				(xy 121.449988 65.844086) (xy 121.599985 65.735109) (xy 121.599987 65.735106) (xy 121.599991 65.735104)
+				(xy 121.750303 65.584792) (xy 121.750305 65.584788) (xy 121.750308 65.584786) (xy 121.875247 65.41282)
+				(xy 121.875246 65.41282) (xy 121.87525 65.412816) (xy 121.971756 65.223412) (xy 122.037445 65.021243)
+				(xy 122.070699 64.811287) (xy 122.070699 64.298713) (xy 122.037445 64.088757) (xy 121.971756 63.886588)
+				(xy 121.87525 63.697184) (xy 121.875248 63.697181) (xy 121.875247 63.697179) (xy 121.750308 63.525213)
+				(xy 121.599985 63.37489) (xy 121.428019 63.249951) (xy 121.238613 63.153444) (xy 121.238612 63.153443)
+				(xy 121.238611 63.153443) (xy 121.036442 63.087754) (xy 121.03644 63.087753) (xy 121.036439 63.087753)
+				(xy 120.875156 63.062208) (xy 120.826486 63.0545) (xy 120.613912 63.0545) (xy 120.565241 63.062208)
+				(xy 120.403959 63.087753) (xy 120.201784 63.153444) (xy 120.012378 63.249951) (xy 119.840412 63.37489)
+				(xy 119.690089 63.525213) (xy 119.56515 63.697179) (xy 119.468643 63.886585) (xy 119.402952 64.08876)
+				(xy 119.369699 64.298713) (xy 118.08 64.298713) (xy 118.08 60.849984) (xy 147.9795 60.849984) (xy 147.9795 63.150015)
+				(xy 147.99 63.252795) (xy 147.990001 63.252796) (xy 148.045186 63.419335) (xy 148.045187 63.419337)
+				(xy 148.137286 63.568651) (xy 148.137289 63.568655) (xy 148.261344 63.69271) (xy 148.261348 63.692713)
+				(xy 148.410662 63.784812) (xy 148.410664 63.784813) (xy 148.410666 63.784814) (xy 148.577203 63.839999)
+				(xy 148.679992 63.8505) (xy 148.679997 63.8505) (xy 150.980003 63.8505) (xy 150.980008 63.8505)
+				(xy 151.082797 63.839999) (xy 151.249334 63.784814) (xy 151.398655 63.692711) (xy 151.522711 63.568655)
+				(xy 151.614814 63.419334) (xy 151.669999 63.252797) (xy 151.6805 63.150008) (xy 151.6805 60.849992)
+				(xy 151.669999 60.747203) (xy 151.614814 60.580666) (xy 151.522711 60.431345) (xy 151.398655 60.307289)
+				(xy 151.398651 60.307286) (xy 151.249337 60.215187) (xy 151.249335 60.215186) (xy 151.166065 60.187593)
+				(xy 151.082797 60.160001) (xy 151.082795 60.16) (xy 150.980015 60.1495) (xy 150.980008 60.1495)
+				(xy 148.679992 60.1495) (xy 148.679984 60.1495) (xy 148.577204 60.16) (xy 148.577203 60.160001)
+				(xy 148.410664 60.215186) (xy 148.410662 60.215187) (xy 148.261348 60.307286) (xy 148.261344 60.307289)
+				(xy 148.137289 60.431344) (xy 148.137286 60.431348) (xy 148.045187 60.580662) (xy 148.045186 60.580664)
+				(xy 147.990001 60.747203) (xy 147.99 60.747204) (xy 147.9795 60.849984) (xy 118.08 60.849984) (xy 118.08 57.702135)
+				(xy 130.7195 57.702135) (xy 130.7195 58.99787) (xy 130.719501 58.997876) (xy 130.725908 59.057483)
+				(xy 130.776202 59.192328) (xy 130.776206 59.192335) (xy 130.862452 59.307544) (xy 130.862455 59.307547)
+				(xy 130.977664 59.393793) (xy 130.977671 59.393797) (xy 131.112517 59.444091) (xy 131.112516 59.444091)
+				(xy 131.119444 59.444835) (xy 131.172127 59.4505) (xy 132.467872 59.450499) (xy 132.527483 59.444091)
+				(xy 132.662329 59.393797) (xy 132.662329 59.393796) (xy 132.662331 59.393796) (xy 132.711993 59.356618)
+				(xy 132.777454 59.332201) (xy 132.831097 59.340258) (xy 133.017678 59.412539) (xy 133.218072 59.45)
+				(xy 133.421928 59.45) (xy 133.622322 59.412539) (xy 133.812412 59.338899) (xy 133.812416 59.338897)
+				(xy 133.900686 59.284241) (xy 133.900686 59.28424) (xy 133.2613 58.644854) (xy 133.280504 58.65)
+				(xy 133.359496 58.65) (xy 133.435796 58.629556) (xy 133.504205 58.59006) (xy 133.56006 58.534205)
+				(xy 133.599556 58.465796) (xy 133.62 58.389496) (xy 133.62 58.35) (xy 133.673552 58.35) (xy 134.257465 58.933912)
+				(xy 134.259247 58.931553) (xy 134.259248 58.931551) (xy 134.350113 58.749069) (xy 134.350116 58.749063)
+				(xy 134.405902 58.552992) (xy 134.405903 58.552989) (xy 134.424713 58.35) (xy 134.424713 58.349999)
+				(xy 134.405903 58.14701) (xy 134.405902 58.147007) (xy 134.350116 57.950936) (xy 134.350113 57.95093)
+				(xy 134.259249 57.768449) (xy 134.259247 57.768447) (xy 134.257465 57.766087) (xy 133.673552 58.35)
+				(xy 133.62 58.35) (xy 133.62 58.310504) (xy 133.599556 58.234204) (xy 133.56006 58.165795) (xy 133.504205 58.10994)
+				(xy 133.435796 58.070444) (xy 133.359496 58.05) (xy 133.280504 58.05) (xy 133.2613 58.055145) (xy 133.61431 57.702135)
+				(xy 137.0695 57.702135) (xy 137.0695 58.99787) (xy 137.069501 58.997876) (xy 137.075908 59.057483)
+				(xy 137.126202 59.192328) (xy 137.126206 59.192335) (xy 137.212452 59.307544) (xy 137.212455 59.307547)
+				(xy 137.327664 59.393793) (xy 137.327671 59.393797) (xy 137.462517 59.444091) (xy 137.462516 59.444091)
+				(xy 137.469444 59.444835) (xy 137.522127 59.4505) (xy 138.817872 59.450499) (xy 138.877483 59.444091)
+				(xy 139.012329 59.393797) (xy 139.012329 59.393796) (xy 139.012331 59.393796) (xy 139.061993 59.356618)
+				(xy 139.127454 59.332201) (xy 139.181097 59.340258) (xy 139.367678 59.412539) (xy 139.568072 59.45)
+				(xy 139.771928 59.45) (xy 139.972322 59.412539) (xy 140.162412 59.338899) (xy 140.162416 59.338897)
+				(xy 140.250686 59.284241) (xy 140.250686 59.28424) (xy 139.6113 58.644854) (xy 139.630504 58.65)
+				(xy 139.709496 58.65) (xy 139.785796 58.629556) (xy 139.854205 58.59006) (xy 139.91006 58.534205)
+				(xy 139.949556 58.465796) (xy 139.97 58.389496) (xy 139.97 58.35) (xy 140.023552 58.35) (xy 140.607465 58.933912)
+				(xy 140.609247 58.931553) (xy 140.609248 58.931551) (xy 140.700113 58.749069) (xy 140.700116 58.749063)
+				(xy 140.755902 58.552992) (xy 140.755903 58.552989) (xy 140.774713 58.35) (xy 140.774713 58.349999)
+				(xy 140.755903 58.14701) (xy 140.755902 58.147007) (xy 140.700116 57.950936) (xy 140.700113 57.95093)
+				(xy 140.609249 57.768449) (xy 140.609247 57.768447) (xy 140.607465 57.766087) (xy 140.023552 58.35)
+				(xy 139.97 58.35) (xy 139.97 58.310504) (xy 139.949556 58.234204) (xy 139.91006 58.165795) (xy 139.854205 58.10994)
+				(xy 139.785796 58.070444) (xy 139.709496 58.05) (xy 139.630504 58.05) (xy 139.6113 58.055145) (xy 140.250687 57.415758)
+				(xy 140.162413 57.361101) (xy 140.162411 57.3611) (xy 139.972321 57.28746) (xy 139.771928 57.25)
+				(xy 139.568072 57.25) (xy 139.367677 57.28746) (xy 139.181098 57.359741) (xy 139.111474 57.365603)
+				(xy 139.061993 57.343381) (xy 139.012331 57.306204) (xy 139.012329 57.306203) (xy 139.012328 57.306202)
+				(xy 138.877482 57.255908) (xy 138.877483 57.255908) (xy 138.817883 57.249501) (xy 138.817881 57.2495)
+				(xy 138.817873 57.2495) (xy 138.817864 57.2495) (xy 137.522129 57.2495) (xy 137.522123 57.249501)
+				(xy 137.462516 57.255908) (xy 137.327671 57.306202) (xy 137.327664 57.306206) (xy 137.212455 57.392452)
+				(xy 137.212452 57.392455) (xy 137.126206 57.507664) (xy 137.126202 57.507671) (xy 137.075908 57.642517)
+				(xy 137.069501 57.702116) (xy 137.0695 57.702135) (xy 133.61431 57.702135) (xy 133.900687 57.415758)
+				(xy 133.812413 57.361101) (xy 133.812411 57.3611) (xy 133.622321 57.28746) (xy 133.421928 57.25)
+				(xy 133.218072 57.25) (xy 133.017677 57.28746) (xy 132.831098 57.359741) (xy 132.761474 57.365603)
+				(xy 132.711993 57.343381) (xy 132.662331 57.306204) (xy 132.662329 57.306203) (xy 132.662328 57.306202)
+				(xy 132.527482 57.255908) (xy 132.527483 57.255908) (xy 132.467883 57.249501) (xy 132.467881 57.2495)
+				(xy 132.467873 57.2495) (xy 132.467864 57.2495) (xy 131.172129 57.2495) (xy 131.172123 57.249501)
+				(xy 131.112516 57.255908) (xy 130.977671 57.306202) (xy 130.977664 57.306206) (xy 130.862455 57.392452)
+				(xy 130.862452 57.392455) (xy 130.776206 57.507664) (xy 130.776202 57.507671) (xy 130.725908 57.642517)
+				(xy 130.719501 57.702116) (xy 130.7195 57.702135) (xy 118.08 57.702135) (xy 118.08 56.999998) (xy 147.974773 56.999998)
+				(xy 147.974773 57.000001) (xy 147.993657 57.264027) (xy 147.993658 57.264034) (xy 148.049921 57.522673)
+				(xy 148.142426 57.77069) (xy 148.142428 57.770694) (xy 148.26928 58.003005) (xy 148.269285 58.003013)
+				(xy 148.427906 58.214907) (xy 148.427922 58.214925) (xy 148.615074 58.402077) (xy 148.615092 58.402093)
+				(xy 148.826986 58.560714) (xy 148.826994 58.560719) (xy 149.059305 58.687571) (xy 149.059309 58.687573)
+				(xy 149.059311 58.687574) (xy 149.307322 58.780077) (xy 149.307325 58.780077) (xy 149.307326 58.780078)
+				(xy 149.502552 58.822546) (xy 149.565974 58.836343) (xy 149.80966 58.853772) (xy 149.829999 58.855227)
+				(xy 149.83 58.855227) (xy 149.830001 58.855227) (xy 149.848885 58.853876) (xy 150.094026 58.836343)
+				(xy 150.352678 58.780077) (xy 150.600689 58.687574) (xy 150.833011 58.560716) (xy 151.044915 58.402087)
+				(xy 151.232087 58.214915) (xy 151.390716 58.003011) (xy 151.517574 57.770689) (xy 151.610077 57.522678)
+				(xy 151.666343 57.264026) (xy 151.685227 57) (xy 151.666343 56.735974) (xy 151.610077 56.477322)
+				(xy 151.517574 56.229311) (xy 151.390716 55.996989) (xy 151.390714 55.996986) (xy 151.232093 55.785092)
+				(xy 151.232077 55.785074) (xy 151.044925 55.597922) (xy 151.044907 55.597906) (xy 150.833013 55.439285)
+				(xy 150.833005 55.43928) (xy 150.600694 55.312428) (xy 150.60069 55.312426) (xy 150.352673 55.219921)
+				(xy 150.094034 55.163658) (xy 150.094027 55.163657) (xy 149.830001 55.144773) (xy 149.829999 55.144773)
+				(xy 149.565972 55.163657) (xy 149.565965 55.163658) (xy 149.307326 55.219921) (xy 149.059309 55.312426)
+				(xy 149.059305 55.312428) (xy 148.826994 55.43928) (xy 148.826986 55.439285) (xy 148.615092 55.597906)
+				(xy 148.615074 55.597922) (xy 148.427922 55.785074) (xy 148.427906 55.785092) (xy 148.269285 55.996986)
+				(xy 148.26928 55.996994) (xy 148.142428 56.229305) (xy 148.142426 56.229309) (xy 148.049921 56.477326)
+				(xy 147.993658 56.735965) (xy 147.993657 56.735972) (xy 147.974773 56.999998) (xy 118.08 56.999998)
+				(xy 118.08 51.999998) (xy 147.975274 51.999998) (xy 147.975274 52.000001) (xy 147.994152 52.26396)
+				(xy 148.0504 52.522528) (xy 148.142884 52.770487) (xy 148.269701 53.002735) (xy 148.269702 53.002736)
+				(xy 148.35704 53.119406) (xy 149.075884 52.400561) (xy 149.07674 52.402626) (xy 149.169762 52.541844)
+				(xy 149.288156 52.660238) (xy 149.427374 52.75326) (xy 149.429437 52.754114) (xy 148.710592 53.472958)
+				(xy 148.827263 53.560298) (xy 149.059513 53.687115) (xy 149.059512 53.687115) (xy 149.307471 53.779599)
+				(xy 149.566039 53.835847) (xy 149.829999 53.854726) (xy 149.830001 53.854726) (xy 150.09396 53.835847)
+				(xy 150.352528 53.779599) (xy 150.600487 53.687115) (xy 150.832744 53.560293) (xy 150.949406 53.472959)
+				(xy 150.949406 53.472958) (xy 150.230562 52.754114) (xy 150.232626 52.75326) (xy 150.371844 52.660238)
+				(xy 150.490238 52.541844) (xy 150.58326 52.402626) (xy 150.584114 52.400562) (xy 151.302958 53.119406)
+				(xy 151.302959 53.119406) (xy 151.390293 53.002744) (xy 151.517115 52.770487) (xy 151.609599 52.522528)
+				(xy 151.665847 52.26396) (xy 151.684726 52.000001) (xy 151.684726 51.999998) (xy 151.665847 51.736039)
+				(xy 151.609599 51.477471) (xy 151.517115 51.229512) (xy 151.390298 50.997264) (xy 151.390298 50.997263)
+				(xy 151.302958 50.880592) (xy 150.584114 51.599436) (xy 150.58326 51.597374) (xy 150.490238 51.458156)
+				(xy 150.371844 51.339762) (xy 150.232626 51.24674) (xy 150.23056 51.245884) (xy 150.949406 50.52704)
+				(xy 150.832736 50.439702) (xy 150.832735 50.439701) (xy 150.600486 50.312884) (xy 150.600487 50.312884)
+				(xy 150.352528 50.2204) (xy 150.09396 50.164152) (xy 149.830001 50.145274) (xy 149.829999 50.145274)
+				(xy 149.566039 50.164152) (xy 149.307471 50.2204) (xy 149.059512 50.312884) (xy 148.827264 50.439701)
+				(xy 148.827256 50.439706) (xy 148.710593 50.527039) (xy 148.710592 50.52704) (xy 149.429437 51.245885)
+				(xy 149.427374 51.24674) (xy 149.288156 51.339762) (xy 149.169762 51.458156) (xy 149.07674 51.597374)
+				(xy 149.075885 51.599437) (xy 148.35704 50.880592) (xy 148.357039 50.880593) (xy 148.269706 50.997256)
+				(xy 148.269701 50.997264) (xy 148.142884 51.229512) (xy 148.0504 51.477471) (xy 147.994152 51.736039)
+				(xy 147.975274 51.999998) (xy 118.08 51.999998) (xy 118.08 49.298753) (xy 119.370199 49.298753)
+				(xy 119.370199 49.305) (xy 120.287187 49.305) (xy 120.254274 49.362007) (xy 120.220199 49.489174)
+				(xy 120.220199 49.620826) (xy 120.254274 49.747993) (xy 120.287187 49.805) (xy 119.370199 49.805)
+				(xy 119.370199 49.811246) (xy 119.403441 50.021127) (xy 119.403441 50.02113) (xy 119.469103 50.223217)
+				(xy 119.565578 50.412557) (xy 119.690471 50.584459) (xy 119.690475 50.584464) (xy 119.840734 50.734723)
+				(xy 119.840739 50.734727) (xy 120.012641 50.85962) (xy 120.201981 50.956095) (xy 120.40407 51.021757)
+				(xy 120.470199 51.032231) (xy 120.470199 49.988012) (xy 120.527206 50.020925) (xy 120.654373 50.055)
+				(xy 120.786025 50.055) (xy 120.913192 50.020925) (xy 120.970199 49.988012) (xy 120.970199 51.03223)
+				(xy 121.036325 51.021757) (xy 121.036328 51.021757) (xy 121.238416 50.956095) (xy 121.427756 50.85962)
+				(xy 121.599658 50.734727) (xy 121.599663 50.734723) (xy 121.749922 50.584464) (xy 121.749926 50.584459)
+				(xy 121.874819 50.412557) (xy 121.971294 50.223217) (xy 122.036956 50.02113) (xy 122.036956 50.021127)
+				(xy 122.070199 49.811246) (xy 122.070199 49.805) (xy 121.153211 49.805) (xy 121.186124 49.747993)
+				(xy 121.220199 49.620826) (xy 121.220199 49.489174) (xy 121.186124 49.362007) (xy 121.153211 49.305)
+				(xy 122.070199 49.305) (xy 122.070199 49.298753) (xy 122.036956 49.088872) (xy 122.036956 49.088869)
+				(xy 121.971294 48.886782) (xy 121.874819 48.697442) (xy 121.749926 48.52554) (xy 121.749922 48.525535)
+				(xy 121.636522 48.412135) (xy 130.597 48.412135) (xy 130.597 50.50787) (xy 130.597001 50.507876)
+				(xy 130.603408 50.567483) (xy 130.653702 50.702328) (xy 130.653706 50.702335) (xy 130.739952 50.817544)
+				(xy 130.739955 50.817547) (xy 130.855164 50.903793) (xy 130.855171 50.903797) (xy 130.990017 50.954091)
+				(xy 130.990016 50.954091) (xy 130.996944 50.954835) (xy 131.049627 50.9605) (xy 133.050372 50.960499)
+				(xy 133.109983 50.954091) (xy 133.244831 50.903796) (xy 133.360046 50.817546) (xy 133.446296 50.702331)
+				(xy 133.456872 50.673974) (xy 133.49874 50.618041) (xy 133.564204 50.593622) (xy 133.632477 50.608472)
+				(xy 133.64594 50.616988) (xy 133.828723 50.749788) (xy 134.032429 50.853582) (xy 134.249871 50.924234)
+				(xy 134.34 50.938509) (xy 134.34 49.950747) (xy 134.377708 49.972518) (xy 134.517591 50.01) (xy 134.662409 50.01)
+				(xy 134.802292 49.972518) (xy 134.84 49.950747) (xy 134.84 50.938508) (xy 134.930128 50.924234)
+				(xy 135.14757 50.853582) (xy 135.351276 50.749788) (xy 135.536242 50.615402) (xy 135.697905 50.453739)
+				(xy 135.759371 50.369137) (xy 135.814701 50.32647) (xy 135.884314 50.320491) (xy 135.946109 50.353096)
+				(xy 135.960007 50.369134) (xy 136.021714 50.454066) (xy 136.183434 50.615786) (xy 136.368462 50.750217)
+				(xy 136.500599 50.817544) (xy 136.572244 50.854049) (xy 136.789751 50.924721) (xy 136.789752 50.924721)
+				(xy 136.789755 50.924722) (xy 137.015646 50.9605) (xy 137.015647 50.9605) (xy 137.244353 50.9605)
+				(xy 137.244354 50.9605) (xy 137.470245 50.924722) (xy 137.470248 50.924721) (xy 137.470249 50.924721)
+				(xy 137.687755 50.854049) (xy 137.687755 50.854048) (xy 137.687758 50.854048) (xy 137.891538 50.750217)
+				(xy 138.076566 50.615786) (xy 138.238286 50.454066) (xy 138.372717 50.269038) (xy 138.476548 50.065258)
+				(xy 138.547222 49.847745) (xy 138.583 49.621854) (xy 138.583 49.298146) (xy 138.547222 49.072255)
+				(xy 138.547221 49.072251) (xy 138.547221 49.07225) (xy 138.476549 48.854744) (xy 138.476548 48.854742)
+				(xy 138.372717 48.650962) (xy 138.238286 48.465934) (xy 138.076566 48.304214) (xy 137.891538 48.169783)
+				(xy 137.860372 48.153903) (xy 137.687755 48.06595) (xy 137.470248 47.995278) (xy 137.284812 47.965908)
+				(xy 137.244354 47.9595) (xy 137.015646 47.9595) (xy 136.975188 47.965908) (xy 136.789753 47.995278)
+				(xy 136.78975 47.995278) (xy 136.572244 48.06595) (xy 136.368461 48.169783) (xy 136.30255 48.217671)
+				(xy 136.183434 48.304214) (xy 136.183432 48.304216) (xy 136.183431 48.304216) (xy 136.021716 48.465931)
+				(xy 136.021709 48.46594) (xy 135.960007 48.550864) (xy 135.904677 48.59353) (xy 135.835063 48.599508)
+				(xy 135.773269 48.566901) (xy 135.759372 48.550863) (xy 135.697907 48.466263) (xy 135.697902 48.466257)
+				(xy 135.536242 48.304597) (xy 135.351276 48.170211) (xy 135.147568 48.066417) (xy 134.930124 47.995765)
+				(xy 134.84 47.98149) (xy 134.84 48.969252) (xy 134.802292 48.947482) (xy 134.662409 48.91) (xy 134.517591 48.91)
+				(xy 134.377708 48.947482) (xy 134.34 48.969252) (xy 134.34 47.98149) (xy 134.339999 47.98149) (xy 134.249875 47.995765)
+				(xy 134.032431 48.066417) (xy 133.828719 48.170213) (xy 133.645939 48.30301) (xy 133.580132 48.32649)
+				(xy 133.512079 48.310664) (xy 133.463384 48.260558) (xy 133.456875 48.246033) (xy 133.446296 48.217669)
+				(xy 133.446295 48.217667) (xy 133.446293 48.217664) (xy 133.360047 48.102455) (xy 133.360044 48.102452)
+				(xy 133.244835 48.016206) (xy 133.244828 48.016202) (xy 133.109982 47.965908) (xy 133.109983 47.965908)
+				(xy 133.050383 47.959501) (xy 133.050381 47.9595) (xy 133.050373 47.9595) (xy 133.050364 47.9595)
+				(xy 131.049629 47.9595) (xy 131.049623 47.959501) (xy 130.990016 47.965908) (xy 130.855171 48.016202)
+				(xy 130.855164 48.016206) (xy 130.739955 48.102452) (xy 130.739952 48.102455) (xy 130.653706 48.217664)
+				(xy 130.653702 48.217671) (xy 130.603408 48.352517) (xy 130.597001 48.412116) (xy 130.597 48.412135)
+				(xy 121.636522 48.412135) (xy 121.599663 48.375276) (xy 121.599658 48.375272) (xy 121.427756 48.250379)
+				(xy 121.238414 48.153903) (xy 121.036323 48.088241) (xy 120.970199 48.077768) (xy 120.970199 49.121988)
+				(xy 120.913192 49.089075) (xy 120.786025 49.055) (xy 120.654373 49.055) (xy 120.527206 49.089075)
+				(xy 120.470199 49.121988) (xy 120.470199 48.077768) (xy 120.470198 48.077768) (xy 120.404074 48.088241)
+				(xy 120.201983 48.153903) (xy 120.012641 48.250379) (xy 119.840739 48.375272) (xy 119.840734 48.375276)
+				(xy 119.690475 48.525535) (xy 119.690471 48.52554) (xy 119.565578 48.697442) (xy 119.469103 48.886782)
+				(xy 119.403441 49.088869) (xy 119.403441 49.088872) (xy 119.370199 49.298753) (xy 118.08 49.298753)
+				(xy 118.08 41.964) (xy 118.099685 41.896961) (xy 118.152489 41.851206) (xy 118.204 41.84) (xy 144.626 41.84)
 			)
 		)
 	)

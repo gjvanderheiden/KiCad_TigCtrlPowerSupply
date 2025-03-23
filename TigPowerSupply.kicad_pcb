@@ -2106,17 +2106,17 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
+	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965"
 		(layer "F.Cu")
 		(uuid "915dae7e-dfb2-44eb-91f6-4f6a81ac7d22")
 		(at 151.43 68.66)
-		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
-		(tags "mounting hole 2.2mm no annular m2 din965")
+		(descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
+		(tags "mounting hole 3.2mm no annular m3 din965")
 		(property "Reference" "H4"
-			(at 0 -2.9 0)
+			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bb68585a-16a9-4337-94b9-bba33eccf277")
+			(uuid "1626b9f6-da68-41f0-8f5d-5f8680dbec5b")
 			(effects
 				(font
 					(size 1 1)
@@ -2125,9 +2125,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 2.9 0)
+			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "99c4ae69-5499-49b7-a77d-e3b92234c470")
+			(uuid "e13d31b2-3591-4856-94cf-ae33ccb6768d")
 			(effects
 				(font
 					(size 1 1)
@@ -2135,12 +2135,12 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd1f52fe-c623-42d7-ad26-575f1382eca3")
+			(uuid "2567fcd4-29e0-4960-a445-a7baadc8cddd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2153,7 +2153,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5759f2ca-f89a-498d-b437-ee0dd87f0eb4")
+			(uuid "448cf570-ffda-4d27-a091-9ab64f4fdac8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2166,7 +2166,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f524f8f9-0231-4e58-99b2-051cef490783")
+			(uuid "a1085ebc-90bf-471d-91d7-1e3e88aeb4a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2181,30 +2181,30 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.9 0)
+			(end 2.8 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "4adf6230-4cfe-4c01-9e1d-fd6f04238782")
+			(uuid "54402af2-037c-47af-bfa8-1e04ddca0b3c")
 		)
 		(fp_circle
 			(center 0 0)
-			(end 2.15 0)
+			(end 3.05 0)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "f75b232d-0730-4160-a112-e58cf00465ac")
+			(uuid "6283f456-da50-4d6d-926a-c2801b2345fd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "d2624197-421a-4fed-b6de-095272737398")
+			(uuid "2bda79bd-c483-44c6-a065-90647f495927")
 			(effects
 				(font
 					(size 1 1)
@@ -2214,10 +2214,10 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
+			(size 3.2 3.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "da574b4f-ec2c-47af-ba0b-1018832dd183")
+			(uuid "3a586d39-723c-4688-a436-4e4664ca3039")
 		)
 	)
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
@@ -2715,17 +2715,17 @@
 			)
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
+	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965"
 		(layer "F.Cu")
 		(uuid "e25a249e-e7e3-4324-a7b8-53b33e7c29c0")
 		(at 77.43 43.66)
-		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
-		(tags "mounting hole 2.2mm no annular m2 din965")
+		(descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
+		(tags "mounting hole 3.2mm no annular m3 din965")
 		(property "Reference" "H1"
-			(at 0 -2.9 0)
+			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5d25c7db-9cc6-47a2-9ae0-bfc298667b4e")
+			(uuid "c621014b-cf9c-43a4-8614-31efecbb51b6")
 			(effects
 				(font
 					(size 1 1)
@@ -2734,9 +2734,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 2.9 0)
+			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "d964a46c-ab5a-4a9c-bed8-09ae3a840238")
+			(uuid "7a1f93f0-6249-4bf7-b411-bda3173d0f28")
 			(effects
 				(font
 					(size 1 1)
@@ -2744,12 +2744,12 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4510951f-67f8-41b6-8f2e-9f2040e91996")
+			(uuid "13fac1cc-3f86-4566-ba7d-0b18fd5fc6f1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2762,7 +2762,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "626b86f8-8b3e-4300-824d-89910178fead")
+			(uuid "b162e688-2f3c-4698-87ef-4847dcb8a709")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2775,7 +2775,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5043c100-9fca-4d2a-be26-b4f706d421a9")
+			(uuid "51b75ef9-ef1b-4963-b61e-b77b3f9572bb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,30 +2790,30 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.9 0)
+			(end 2.8 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b318302c-cd15-4fdb-8bb6-cc39d2c6892d")
+			(uuid "d047d386-e11d-44dd-81bf-5ffdf98a814a")
 		)
 		(fp_circle
 			(center 0 0)
-			(end 2.15 0)
+			(end 3.05 0)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "eac85e48-67d7-4216-b301-8401426eac2d")
+			(uuid "64b51edb-d117-4ca4-a6fa-706956c61990")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2 0 0)
+			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "51746af1-31fb-415f-b117-7b96f6164842")
+			(uuid "8871dcb3-8ad8-4a3c-be0f-c4cd0bb06ded")
 			(effects
 				(font
 					(size 1 1)
@@ -2823,23 +2823,23 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
+			(size 3.2 3.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "cd5404cf-dd57-46e7-b3a5-f63ca51acd9d")
+			(uuid "5ff15dbe-906d-4471-a869-dc3c3fadc99f")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
+	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965"
 		(layer "F.Cu")
 		(uuid "e308ae4d-9c28-44ed-839e-ebdf516c6252")
 		(at 151.43 43.66)
-		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
-		(tags "mounting hole 2.2mm no annular m2 din965")
+		(descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
+		(tags "mounting hole 3.2mm no annular m3 din965")
 		(property "Reference" "H3"
-			(at 0 -2.9 0)
+			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "86869cd9-569f-4784-9915-18aec2a9078b")
+			(uuid "75c5b0fc-0881-4498-ba81-d3968ee3aa5b")
 			(effects
 				(font
 					(size 1 1)
@@ -2848,9 +2848,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 2.9 0)
+			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "dee474f5-3521-4e6d-8cd8-ea9ad7c1dbd3")
+			(uuid "8f79a297-fefb-4b13-a5a9-ff3a081a1ce6")
 			(effects
 				(font
 					(size 1 1)
@@ -2858,12 +2858,12 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47a389d6-ebcb-4b3b-95d1-a5f6cf4d4b3a")
+			(uuid "d976ac46-c255-4786-aa16-0f6bc1ed4671")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2876,7 +2876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d269049-1adc-48b4-a6c8-e849fb1526f9")
+			(uuid "e2cc3c73-7ff8-47fa-a36f-57666f37a873")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2889,7 +2889,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb14cfd8-e1af-4c57-9049-1ab305c308a2")
+			(uuid "9e7365ff-6291-4094-8154-b22faeea49fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2904,30 +2904,30 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.9 0)
+			(end 2.8 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "5eddb0bb-2709-4443-89f0-f2b4d6196aaa")
+			(uuid "464fabb1-0847-4bfd-8099-cb988acbef21")
 		)
 		(fp_circle
 			(center 0 0)
-			(end 2.15 0)
+			(end 3.05 0)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "78cafff2-7b99-4520-b761-0663a877b5cd")
+			(uuid "559a6b81-badc-428f-95de-de6869e705ed")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1 -1 0)
+			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "911916b0-de3e-4f17-8dba-6172839ecea0")
+			(uuid "314da402-cd5b-4f7e-a9db-8efc5e45a964")
 			(effects
 				(font
 					(size 1 1)
@@ -2937,23 +2937,23 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
+			(size 3.2 3.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "a51fa7b3-7826-4328-b745-35971aab4604")
+			(uuid "0c538056-bbb4-4e39-a490-cda2706546db")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965"
+	(footprint "MountingHole:MountingHole_3.2mm_M3_DIN965"
 		(layer "F.Cu")
 		(uuid "ee7b09dc-419e-4058-9657-37766d416adc")
 		(at 76.43 68.66)
-		(descr "Mounting Hole 2.2mm, no annular, M2, DIN965")
-		(tags "mounting hole 2.2mm no annular m2 din965")
+		(descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
+		(tags "mounting hole 3.2mm no annular m3 din965")
 		(property "Reference" "H2"
-			(at 0 -2.9 0)
+			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "512756a0-e387-4069-a914-4c21c4f2191d")
+			(uuid "6dcfe9ef-1335-4051-a7be-15542d264dde")
 			(effects
 				(font
 					(size 1 1)
@@ -2962,9 +2962,9 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 2.9 0)
+			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "5915f190-ce0c-40ad-ad5d-6b7a2458d25a")
+			(uuid "f8f3ab2c-c7d7-4ee6-b904-030b785303e2")
 			(effects
 				(font
 					(size 1 1)
@@ -2972,12 +2972,12 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "36aaaa59-62de-4241-b868-3b56633740da")
+			(uuid "f2fd2c76-7735-4636-bf8c-fb5389e22dcd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2990,7 +2990,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3823c77-213c-4e1b-a69f-dde02fc3f9df")
+			(uuid "c46274e5-20bb-4494-bedf-c0ad26bb4f1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3003,7 +3003,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61f5d07b-a17a-4abb-8b77-3d3784a85f70")
+			(uuid "9eddc995-4e02-483d-8c37-18aeaa2988cc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3018,30 +3018,30 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.9 0)
+			(end 2.8 0)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "15f63e67-c1a0-4588-8b53-82971ffc3b00")
+			(uuid "5faa8739-6732-42e6-99bb-f6a6d72a9021")
 		)
 		(fp_circle
 			(center 0 0)
-			(end 2.15 0)
+			(end 3.05 0)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "a0450401-ebd8-4b09-8e87-2ebab05045cf")
+			(uuid "966a4e3f-01b1-48e4-aab6-1b21997c55f8")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "4b162022-819b-463e-9ff3-3a8616a0e36b")
+			(uuid "c8f3a17a-01ea-4908-a478-f82c8005177a")
 			(effects
 				(font
 					(size 1 1)
@@ -3051,10 +3051,10 @@
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
+			(size 3.2 3.2)
+			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
-			(uuid "4cba8a47-1eef-4768-934d-ed831e8876eb")
+			(uuid "18bf348c-92da-417e-b78b-dd81ee6832e4")
 		)
 	)
 	(footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
@@ -4198,6 +4198,72 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "97212cc6-5c77-4040-8662-40830e7da2e2")
+		(pts
+			(xy 151.43 68.66) (xy 151.43 43.66)
+		)
+		(height 18.17)
+		(gr_text "25.0000 mm"
+			(at 168.45 56.16 90)
+			(layer "Dwgs.User")
+			(uuid "97212cc6-5c77-4040-8662-40830e7da2e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "de339c1b-42fc-4c0f-b8b1-f2ab6ffbe87d")
+		(pts
+			(xy 76.43 68.66) (xy 151.43 68.66)
+		)
+		(height 14.14)
+		(gr_text "75.0000 mm"
+			(at 113.93 81.65 0)
+			(layer "Dwgs.User")
+			(uuid "de339c1b-42fc-4c0f-b8b1-f2ab6ffbe87d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 131.82 49.69)
